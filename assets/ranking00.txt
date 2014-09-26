@@ -1,0 +1,509 @@
+2000/1/3　1.Next100Years/J-FRIENDS　2.HAPPY NEW MILLENNIUM/鈴木あみ　3.SNOW DANCE/ドリカム　4.ちょこっとLOVE/プッチモニ　5.HEAVEN/福山雅治
+2000/1/17　1.HAPPINESS/GLAY　2.Pray/ELT　3.ちょこっとLOVE/プッチモニ　4.LOVE2000/安室奈美恵　5.Next100Years/J-FRIENDS
+2000/1/24　1.口笛/ミスチル　2.赤裸々/SADS　3.Pray/ELT　4.孫/大泉逸郎　5.ちょこっとLOVE/プッチモニ
+2000/1/31　1.NEO UNIVERSE/ラルク　2.TELL ME/hide　3.口笛/ミスチル　4.マシマロ/奥田民生　5.LoveDayAfterTomorrow/倉木麻衣
+2000/2/7　1.TSUNAMI/サザン　2.恋のダンスサイト/モーニング娘　3.ギブス/椎名林檎　4.罪と罰/椎名林檎　5.Don'tNeedToSayGoodBye/鈴木あみ
+2000/2/14　1.TSUNAMI/サザン　2.恋のダンスサイト/モーニング娘　3.MILLENNIUM GREETING/V6　4.First impression/野猿　5.NEO UNIVERSE/ラルク
+2000/2/21　1.今夜月の見える丘に/B'z　2.TSUNAMI/サザン　3.Fly high/浜崎あゆみ　4.Let It Be/SMAP　5.LoveDayAfterTomorrow/倉木麻衣
+2000/2/28　1.TSUNAMI/サザン　2.Bright Daylight/hiro　3.sure/ELT　4.今夜月の見える丘に/B'z　5.LoveDayAfterTomorrow/倉木麻衣
+2000/3/6　1.TSUNAMI/サザン　2.LoveDayAfterTomorrow/倉木麻衣　3.今夜月の見える丘に/B'z　4.BrandNewWaveUpperGround/JAM　5.Bright Daylight/hiro
+2000/3/13　1.TSUNAMI/サザン　2.LoveDayAfterTomorrow/倉木麻衣　3.孫/大泉逸郎　4.今夜月の見える丘に/B'z　5.GoodbyeYesterday/今井美樹
+2000/3/20　1.好きになってく愛してく/Kinki　2.赤い日記帳/あか組4　3.黄色いお空でBOOMBOOMBOOM/黄色5　4.青いスポーツカーの男/青色7　5.TSUNAMI/サザン
+2000/3/27　1.Stay by my side/倉木麻衣　2.Deep Impact/DragonAsh　3.Red Beat of My Life/Eriko　4.TSUNAMI/サザン　5.赤い日記帳/あか組4
+2000/4/3　1.Stay by my side/倉木麻衣　2.TSUNAMI/サザン　3.Deep Impact/DragonAsh　4.LoveDayAfterTomorrow/倉木麻衣　5.赤い日記帳/あか組4
+2000/4/10　1.gravity/LUNASEA　2.Stay by my side/倉木麻衣　3.TSUNAMI/サザン　4Deep Impact/DragonAsh.　5.on the way to YOU/globe
+2000/4/17　1.SUNRISE日本/嵐　2.Stay by my side/倉木麻衣　3.SHOCK HEARTS/イエモン　4.TSUNAMI/サザン　5.Deep Impact/DragonAsh
+2000/4/24　1.THANKYOU 4 EVERYDAY EVERYBODY/鈴木あみ　2.忘却の空/Sads　3.愛情/小柳ゆき　4.ストロベリー/Sads　5.Stay by my side/倉木麻衣
+2000/5/1　1.Wait＆See/宇多田ヒカル　2.果てのない道/19　3.愛情/小柳ゆき　4.my greatest memories/上原多香子　5.BLACK OR WHITE/TMR
+2000/5/8　1.桜坂/福山雅治　2.Secret of my heart/倉木麻衣　3.vogue/浜崎あゆみ　4.Wait＆See/宇多田ヒカル　5.愛情/小柳ゆき
+2000/5/15　1.桜坂/福山雅治　2.Wait＆See/宇多田ヒカル　3.Secret of my heart/倉木麻衣　4.vogue/浜崎あゆみ　5.愛情/小柳ゆき
+2000/5/22　1.桜坂/福山雅治　2.IN THE WIND/V6　3.Secret of my heart/倉木麻衣　4.Wait＆See/宇多田ヒカル　5.vogue/浜崎あゆみ
+2000/5/29　1.ハッピーサマーウェディング/モーニング娘　2.Far away/浜崎あゆみ　3.桜坂/福山雅治　4.TONIGHT/LUNASEA　5.Secret of my heart/倉木麻衣
+2000/6/5　1.May/B'z　2.桜坂/福山雅治　3.ハッピーサマーウェディング/モーニング娘　4.Far away/浜崎あゆみ　5.HEAT CAPACITY/TMR
+2000/6/12　1.嗚呼、青春の日々/ゆず　2.桜坂/福山雅治　3.May/B'z　4.ハッピーサマーウェディング/モーニング娘　5.ChickenGuys/野猿
+2000/6/19　1.SEASONS/浜崎あゆみ　2.NEVER GONNA GIVE YOU UP/倉木麻衣　3.桜坂/福山雅治　4.ハッピーサマーウェディング/モーニング娘　5.AGITATOR/PIERROT
+2000/6/26　1.SEASONS/浜崎あゆみ　2.Rescue me/ELT　3.NEVER GONNA GIVE YOU UP/倉木麻衣　4.とにかく無性に/globe　5.桜坂/福山雅治
+2000/7/3　1.夏の王様/KinKi　2.SEASONS/浜崎あゆみ　3.メモリーズ/スピッツ　4.上を向いて歩いてゆこう/ネプチューン　5.桜坂/福山雅治
+2000/7/10　1.ForYou/宇多田ヒカル　2.虹になりたい/TUBE　3.SEASONS/浜崎あゆみ　4.夏の王様/KinKi　5.LOVE2000/hitomi
+2000/7/17　1.ForYou/宇多田ヒカル　2.水陸そら無限大/19　3.乙女パスタに感動/タンポポ　4.虹になりたい/TUBE　5.SEASONS/浜崎あゆみ
+2000/7/24　1.juice/B'z　2.NEVER END/安室奈美恵　3.台風ジェネレーション/嵐　4.SummerTribe/DragonAsh　5.ForYou/宇多田ヒカル
+2000/7/31　1.MERMAID/GLAY　2.STAY AWAY/ラルク　3.HOTEL PACIFIC/サザン　4.NEVER END/安室奈美恵　5.juice/B'z
+2000/8/7　1.青春時代1.2.3！/プッチモニ　2.be alive/小柳ゆき　3.HOTEL PACIFIC/サザン　4.MERMAID/GLAY　5.STAY AWAY/ラルク
+2000/8/14　1.be alive/小柳ゆき　2.HOTEL PACIFIC/サザン　3.Luv is Magic/Eriko　4.青春時代1.2.3！/プッチモニ　5.MERMAID/GLAY
+2000/8/21　1.NOT FOUND/ミスチル　2.be alive/小柳ゆき　3.HOTEL PACIFIC/サザン　4.青春時代1.2.3！/プッチモニ　5.ミュージックアワー/ポルノ
+2000/8/28　1.慎吾ママのおはロック/慎吾ママ　2.NOT FOUND/ミスチル　3.be alive/小柳ゆき　4.HOTEL PACIFIC/サザン　5.ZOO/ECHOES
+2000/9/4　1.とまどい/GLAY　2.慎吾ママのおはロック/慎吾ママ　3.夏祭り/Whiteberry　4.ZOO/ECHOES　5.あ〜よかった/花花
+2000/9/11　1.らいおんハート/SMAP　2.慎吾ママのおはロック/慎吾ママ　3.とまどい/GLAY　4.夏祭り/Whiteberry　5.あ〜よかった/花花
+2000/9/18　1.I WISH/モーニング娘　2.らいおんハート/SMAP　3.慎吾ママのおはロック/慎吾ママ　4.Get U're Dream/ZARD　5.ZOO/蓮井朱夏
+2000/9/25　1.らいおんハート/SMAP　2.サウダージ/ポルノ　3.ZOO/蓮井朱夏　4.慎吾ママのおはロック/慎吾ママ　5.I WISH/モーニング娘
+2000/10/2　1.サウダージ/ポルノ　2.ボーイフレンド/aiko　3.らいおんハート/SMAP　4.ZOO/蓮井朱夏　5.慎吾ママのおはロック/慎吾ママ
+2000/10/9　1.SURREAL/浜崎あゆみ　2.Simply Wonderful/倉木麻衣　3.Reality/鈴木あみ　4.サウダージ/ポルノ　5.ZOO/蓮井朱夏
+2000/10/16　1.RING/B'z　2.PLEASE SMILE AGAIN/安室奈美恵　3.サウダージ/ポルノ　4.らいおんハート/SMAP　5.ボーイフレンド/aiko
+2000/10/23　1.HEY！/福山雅治　2.RING/B'z　3.サウダージ/ポルノ　4..らいおんハート/SMAP　5.ボーイフレンド/aiko
+2000/10/30　1.飛べない鳥/ゆず　2.愛のカケラ/ELT　3.walk/SOPHIA　4.HEY！/福山雅治　5.サウダージ/ポルノ
+2000/11/6　1.Everything/MISIA　2.Treasure/hiro　3.CHANGE THE WORLD/V6　4.飛べない鳥/ゆず　5.恋はスリル、ショック、サスペンス/愛内里菜
+2000/11/13　1.Everything/MISIA　2.AUDIENCE/浜崎あゆみ　3.この青い空、みどり/サザン　4.Treasure/hiro　5.BRILLIANT WORLD/イエモン
+2000/11/20　1.Everything/MISIA　2.感謝カンゲキ雨嵐/嵐　3.Reach for the sky/倉木麻衣　4.LOVE SONG/LUNASEA　5.Treasure/hiro
+2000/11/27　1.Missing You/GLAY　2.Everything/MISIA　3.angel song/ブリグリ　4.Koyanagi the Christmas/小柳ゆき　5.NIGHTMARE/Sads
+2000/12/4　1.Everything/MISIA　2.Missing You/GLAY　3.in the Name of Love/今井絵理子　4.24/7/ドリカム　5.DON'T LOOK BACK/globe
+2000/12/11　1.I WILL GET THERE/J-FRIENDS　2.Lily's e.p/DragonAsh　3.Everything/MISIA　4.背景ロマン/19　5.angel song/ブリグリ
+2000/12/18　1.サボテン/ポルノ　2.Everything/MISIA　3.even if/平井堅　4.Lily's e.p/DragonAsh　5.NEVER FADE/THE ALFEE
+2000/12/25　1.M/浜崎あゆみ　2.恋愛レボリューション21/モーニング娘　3.Everything/MISIA　4.サボテン/ポルノ　5.even if/平井堅
+2001/1/1　1.M/浜崎あゆみ　2.恋愛レボリューション21/モーニング娘　3.Everything/MISIA　4.サボテン/ポルノ　5.even if/平井堅
+2001/1/15　1.fragile/ELT　2.M/浜崎あゆみ　3.I miss you/MISIA+DCT　4.恋愛レボリューション21/モーニング娘　5.Everything/MISIA
+2001/1/22　1.fragile/ELT　2.M/浜崎あゆみ　3.Purple The Orion/DAPUMP　4.I miss you/MISIA+DCT　5.恋愛レボリューション21/モーニング娘
+2001/1/29　1.ミニモニ。ジャンケンぴょん/ミニモニ　2.fragile/ELT　3.進化論/SOPHIA　4.come again/m-flo　5.M/浜崎あゆみ
+2001/2/5　1.ミニモニ。ジャンケンぴょん/ミニモニ　2.fragile/ELT　3.ラッキープール/JAM　4.I'm here saying nothing/矢井田瞳　5.come again/m-flo
+2001/2/12　1.evolution/浜崎あゆみ　2.ミニモニ。ジャンケンぴょん/ミニモニ　3.プライマル/イエモン　4.fragile/ELT　5.好きだけじゃだめなんだ/ドリカム
+2001/2/19　1.ボクの背中には羽根がある/KinKi　2.冷たい海/倉木麻衣　3.evolution/浜崎あゆみ　4.ミニモニ。ジャンケンぴょん/ミニモニ　5.BOARDING/TMR
+2001/2/26　1.Can You Keep A Secret？/宇多田ヒカル　2.ボクの背中には羽根がある/KinKi　3.evolution/浜崎あゆみ　4.Miracles/平井堅　5.明日があるさ/ウルフルズ
+2001/3/5　1.Can You Keep A Secret？/宇多田ヒカル　2.恋をしちゃいました！/タンポポ　3.初恋/aiko　4.明日があるさ/ウルフルズ　5.Graceful World/ELT
+2001/3/12　1.BABY！恋にKNOCK OUT！/プッチモニ　2.Can You Keep A Secret？/宇多田ヒカル　3.愛のMelody/V6　4.明日があるさ/ウルフルズ　5.Fish Fight！/野猿
+2001/3/19　1.NEVER EVER/浜崎あゆみ　2.PIECES OF A DREAM/ケミストリ　3.Can You Keep A Secret？/宇多田ヒカル　4.明日があるさ/ウルフルズ　5.BABY！恋にKNOCK OUT！/プッチモニ
+2001/3/26　1.ultra soul/B'z　2.NEVER EVER/浜崎あゆみ　3.PIECES OF A DREAM/ケミストリ　4.明日があるさ/ウルフルズ　5.Can You Keep A Secret？/宇多田ヒカル
+2001/4/2　1.ultra soul/B'z　2.PIECES OF A DREAM/ケミストリ　3.NEVER EVER/浜崎あゆみ　4.明日があるさ/ウルフルズ　5.ひとり/ゴスペラーズ
+2001/4/9　1.愛のバカやろう/後藤真希　2.真夜中は純潔/椎名林檎　3.Gang/福山雅治　4.PIECES OF A DREAM/ケミストリ　5.明日があるさ/Re:Japan
+2001/4/16　1.明日があるさ/Re:Japan　2.PIECES OF A DREAM/ケミストリ　3.愛のバカやろう/後藤真希　4.真夜中は純潔/椎名林檎　5.ultra soul/B'z
+2001/4/23　1.PIECES OF A DREAM/ケミストリ　2.明日があるさ/Re:Japan　3.ひとり/ゴスペラーズ　4.YELL/コブクロ　5.愛のバカやろう/後藤真希
+2001/4/30　1.君のために僕がいる/嵐　2.Stand Up/倉木麻衣　3.PIECES OF A DREAM/ケミストリ　4.初めてのハッピーバースディ！/カントリー娘　5.ひとり/ゴスペラーズ2001/5/7　1.GLOBAL COMMUNICATION/GLAY　2.足跡/19　3.PIECES OF A DREAM/ケミストリ　4.CORAZON/DA PUMP　5.Ne/河村隆一
+2001/5/14　1.ZERO LANDMINE/NML　2.PIECES OF A DREAM/ケミストリ　3.Stand Up/倉木麻衣　4.ひとり/ゴスペラーズ　5.GLOBAL COMMUNICATION/GLAY
+2001/5/21　1.ZERO LANDMINE/NML　2.PIECES OF A DREAM/ケミストリ　3.天体観測/バンプオブチキン　4.月と太陽/TUBE　5.Stand Up/倉木麻衣
+2001/5/28　1.Endless sorrow/浜崎あゆみ　2.KISS OF LIFE/平井堅　3.遥か/スピッツ　4.ZERO LANDMINE/NML　5.おっととっと夏だぜ！/EE JUMP
+2001/6/4　1.情熱/KinKi　2.3カウント/ゆず　3.Endless sorrow/浜崎あゆみ　4.KISS OF LIFE/平井堅　5.Free World/LOVE PSYCHEDELICO
+2001/6/11　1.ひとりぼっちのハブラシ/桜庭裕一郎　2.ロージー/aiko　3.Endless sorrow/浜崎あゆみ　4.情熱/KinKi　5.KISS OF LIFE/平井堅
+2001/6/18　1.Point of No Return/ケミストリ　2.always/倉木麻衣　3.ひとりぼっちのハブラシ/桜庭裕一郎　4.KISS OF LIFE/平井堅　5.Best Friend/Kiroro
+2001/6/25　1.Point of No Return/ケミストリ　2.KURUKURU/SOPHIA　3.ひとりぼっちのハブラシ/桜庭裕一郎　4.Lifetime Respect/三木道三　5.GAGA LIFE/THE MAD CAPSULE MARKETS
+2001/7/2　1.Lifetime Respect/三木道三　2.Point of No Return/ケミストリ　3.キセキのはじまり/V6　4.ひとりぼっちのハブラシ/桜庭裕一郎　5.ポルノスター/サッズ
+2001/7/9　1.アゲハ蝶/ポルノ　2.Lifetime Respect/三木道三　3.Look Back Again/矢井田瞳　4.Point of No Return/ケミストリ　5.深い森/DAI
+2001/7/16　1.波乗りジョニー/桑田佳祐　2.STAY TUNED/GLAY　3.Lifetime Respect/三木道三　4.アゲハ蝶/ポルノ　5.チュッ！夏パ〜ティ/三人祭
+2001/7/23　1.UNITE！/浜崎あゆみ　2.波乗りジョニー/桑田佳祐　3.Lifetime Respect/三木道三　4.アゲハ蝶/ポルノ　5.Steppin and Shakin/DA PUMP
+2001/7/30　1.波乗りジョニー/桑田佳祐　2.STAY GOLD/Steady＆Co　3.アゲハ蝶/ポルノ　4.UNITE！/浜崎あゆみ　5.wonderful world/TETSU69
+2001/8/6　1.ザピ〜ス！/モーニング娘　2.FINAL DISTANCE/宇多田ヒカル　3.Smac/SMAP　4.アゲハ蝶/ポルノ　5.波乗りジョニー/桑田佳祐
+2001/8/13　1.時代/嵐　2.FINAL DISTANCE/宇多田ヒカル　3.Your innocence/hiro　4.ザピ〜ス！/モーニング娘　5.約束の季節/ゴスペラーズ
+2001/8/20　1.GOLD/B'z　2.FINAL DISTANCE/宇多田ヒカル　3.Say the word/安室奈美恵　4.カンパイ！/TOKIO　5.ザピ〜ス！/モーニング娘
+2001/8/27　1.GOLD/B'z　2.FINAL DISTANCE/宇多田ヒカル　3.ザピ〜ス！/モーニング娘　4.時代/嵐　5.アゲハ蝶/ポルノ
+2001/9/3　1.優しい歌/ミスチル　2.慎吾ママの学園天国/慎吾ママ　3.たいせつなひと/19　4.IS IT YOU？/hitomi　5.Juliet/THE ALFEE
+2001/9/10　1.出せない手紙/V6　2.Can't forget your lov/倉木麻衣　3.優しい歌/ミスチル　4.secret base/ZONE　5.DRAMATIC NEO ANNIVERSARY/PIERROT
+2001/9/17　1.Spirit dreams inside/ラルク　2.ANOTHER WORLD/Gackt　3.LOVE涙色/松浦亜弥　4.STRAWBERRY＆LION/SOPHIA　5.secret base/ZONE
+2001/9/24　1.ミニモニ。テレフォン！リンリンリン/ミニモニ　2.secret base/ZONE　3.ANOTHER WORLD/Gackt　4.FILTH/Dir en grey　5.infection/鬼束ちひろ
+2001/10/1　1.ひとひらの自由/GLAY　2.溢れちゃう… BE IN LOVE/後藤真希　3.secret base/ZONE　4.ミニモニ。テレフォン！リンリンリン/ミニモニ　5.GET SET…GO！/M2001/10/8　1.Dearest/浜崎あゆみ　2.secret base/ZONE　3.Buzzstyle/矢井田瞳　4.ひとひらの自由/GLAY　5.路傍/Will Call
+2001/10/15　1.Dearest/浜崎あゆみ　2.NAVY BLUE/愛内里菜　3.secret base/ZONE　4.Your eyes only/EXILE　5.Buzzstyle/矢井田瞳
+2001/10/22　1.You Go Your Way/ケミストリ　2.Dearest/浜崎あゆみ　3.夢追い虫/スピッツ　4.One/RIP SLYME　5.secret base/ZONE
+2001/10/29　1.evergreen/hyde　2.ヴォイス/ポルノ　3.Paradox/w-inds　4.You Go Your Way/ケミストリ　5.ハルジオン/バンプオブチキン
+2001/11/5　1.白い恋人達/桑田佳祐　2.春夏秋冬/Steady＆Co　3.You Go Your Way/ケミストリ　4.ヴォイス/ポルノ　5.evergreen/hyde
+2001/11/12　1.Mr.Moonlight/モーニング娘　2.白い恋人達/桑田佳祐　3.春夏秋冬/Steady＆Co　4.DR/TOKIO　5.One/RIP SLYME
+2001/11/19　1.youthful days/ミスチル　2.白い恋人達/桑田佳祐　3.STARS/中島美嘉　4.Mr.Moonlight/モーニング娘　5.ムーンライト/くず
+2001/11/26　1.Hey！みんな元気かい？/KinKi　2.ぴったりしたいX'mas！/プッチモニ 　3.youthful days/ミスチル　4.白い恋人達/桑田佳祐　5.STARS/中島美嘉
+2001/12/3　1.王子様と雪の夜/タンポポ　2.おやすみなさい/aiko　3.Confession/hiro　4.youthful days/ミスチル　5.Thank you/SOPHIA
+2000/12/10　1.traveling/宇多田ヒカル　2.100回のKISS/松浦亜弥　3.STARS/中島美嘉　4.youthful days/ミスチル　5.クリスマスイヴRap/KICK THE CAN CREW
+2001/12/17　1.traveling/宇多田ヒカル　2.愛のうた/ストロベリーフラワー　3.ミニハムずの愛の唄/ミニハムず　4.恋の400Mカレー/GOタリモ＆ミニカレー　5.STARS/中島美嘉
+2001/12/24　1.a song is born/浜崎あゆみ＆KEIKO　2.Angel's tale/hyde　3.traveling/宇多田ヒカル　4.愛のうた/ストロベリーフラワー　5.One More Dream/SPEED
+2001/12/31　1.ALWAYS/J-FRIENDS　2.愛のうた/ストロベリーフラワー　3.a song is born/浜崎あゆみ＆KEIKO　4.traveling/宇多田ヒカル　5.12月のLove song/Gackt
+2002/1/14　1.君が好き/ミスチル　2.愛のうた/ストロベリーフラワー　3.traveling/宇多田ヒカル　4.a song is born/浜崎あゆみ＆KEIKO　5.ミニハムずの愛の唄/ミニハムず
+2002/1/21　1.君が好き/ミスチル　2.愛のうた/ストロベリーフラワー　3.SAMURAI DRIVE/hitomi　4.traveling/宇多田ヒカル　5.ミニハムずの愛の唄/ミニハムず
+2002/1/28　1.Winter Bells/倉木麻衣　2.愛のうた/ストロベリーフラワー　3.君が好き/ミスチル　4.SAMURAI DRIVE/hitomi　5.LISTEN TO MY HEART/BoA
+2002/2/4　1.Life goes on/DragonAsh　2.Winter Bells/倉木麻衣　3.Only the love survive/access　4.FLY HIGH/THE MAD CAPSULE MARKETS　5.ラブラブなカップル フリ2002/2/11　1.Life goes on/DragonAsh　2.ミニモニ。ひなまつり/ミニモニ　3.果てなく続くストーリー/MISIA　4.Missin' you/平井堅　5.LISTEN TO MY HEART/BoA
+2002/2/18　1.a Day in Our Life/嵐　2.桃色片想い/松浦亜弥　3.Life goes on/DragonAsh　4.CRESCENT MOON/中島美嘉　5.きよしのズンドコ節/氷川きよし
+2002/2/25　1.アゲイン2/ゆず　2.Life goes on/DragonAsh　3.夢ノカケラ/ZONE　4.a Day in Our Life/嵐　5.Forever You/愛内里菜
+2002/3/4　1.そうだ！We're ALIVE/モーニング娘　2.try your emotion/w-inds　3.恋の歌謡日/ゆず　4.Get me on/ゴスペラーズ　5.トモダチ/ケツメイシ
+2002/3/11　1.Way of Difference/GLAY　2.SHALLOW SLEEP/hyde　3.キラキラ/小田和正　4.そうだ！We're ALIVE/モーニング娘　5.陽のあたる坂道/DAI
+2002/3/18　1.FANTASISTA/DragonAsh　2.Daybreak/浜崎あゆみ　3.Way of Difference/GLAY　4.幸せについて本気出して考えてみた/ポルノ　5.花唄/TOKIO
+2002/3/25　1.FANTASISTA/DragonAsh　2.Way of Difference/GLAY　3.Let's Get Together Now/VoK/J　4.キラキラ/小田和正　5.ワダツミの木/元ちとせ
+2002/4/1　1.光/宇多田ヒカル　2.蒲公英/19　3.おさかな天国/柴矢裕美　4.ワダツミの木/元ちとせ　5.FANTASISTA/DragonAsh
+2002/4/8　1.光/宇多田ヒカル　2.FANKASTIC/RIPSLYME　3.Northern lights/林原めぐみ　4.ワダツミの木/元ちとせ　5.壊れていくこの世界で/PIERROT
+2002/4/15　1.光/宇多田ヒカル　2.ワダツミの木/元ちとせ　3.FANKASTIC/RIPSLYME　4.おさかな天国/柴矢裕美　5.FANTASISTA/DragonAsh
+2002/4/22　1.ワダツミの木/元ちとせ　2.I can't stop my love for you/愛内里菜　3.光/宇多田ヒカル　4.エスコート/ゴスペラーズ　5.FFB/キングギドラ
+2002/4/29　1.ナイスな心意気/嵐　2.ワダツミの木/元ちとせ　3.love you/hiro　4.色っぽい女/カントリー娘　5.光/宇多田ヒカル
+2002/5/6　1.Free＆Easy/浜崎あゆみ　2.Feel fine！/倉木麻衣　3.アイ〜ン体操/バカ殿様とミニモニ姫　4.忘れないから/Gackt　5.ワダツミの木/元ちとせ
+2002/5/13　1.カナシミブルー/KinKi　2.Free＆Easy/浜崎あゆみ　3.ワダツミの木/元ちとせ　4.Feel fine！/倉木麻衣　5.SONS OF THE SUN/麻波25
+2002/5/20　1.SAKURAドロップス/宇多田ヒカル　2.君をさがしてた/ケミストリ　3.手を握って歩きたい/後藤真希　4.SONS OF THE SUN/麻波25　5.ever since/SAYAKA
+2002/5/27　1.freebird/SMAP　2.SAKURAドロップス/宇多田ヒカル　3.Mugen/ポルノ　4.キヲク/ELT　5.亜麻色の髪の乙女/島谷ひとみ
+2002/6/3　1.Another Days/w-inds　2.SAKURAドロップス/宇多田ヒカル　3.freebird/SMAP　4.さわやかな君の気持ち/ZARD　5.亜麻色の髪の乙女/島谷ひとみ
+2002/6/10　1.街/堂本剛　2.Yeah！めっちゃホリディ/松浦亜弥　3.SAKURAドロップス/宇多田ヒカル　4.亜麻色の髪の乙女/島谷ひとみ　5.アシンメトリー/スガシカオ
+2002/6/17　1.熱き鼓動の果て/B'z　2.Eternal Place/hiro　3.街/堂本剛　4.亜麻色の髪の乙女/島谷ひとみ　5.ワダツミの木/元ちとせ
+2002/6/24　1.Feel your breeze/V6　2.熱き鼓動の果て/B'z　3.童貞ソーヤング/GOING STEADY　4.そっと口づけてギュッと抱きしめて/藤本美貴　5.亜麻色の髪の乙女/島谷ひとみ
+2002/7/1　1.恋のマイレージ/RAGFAIR　2.Sheサイドストーリー/RAGFAIR　3.ROCKSTAR/SOPHIA　4.熱き鼓動の果て/B'z　5.Feel your breeze/V6
+2002/7/8　1.東京/桑田佳祐　2.楽園ベイベー/RIP SLYME　3.愛の唄/チョナンカン　4.RAIN OF PAIN/DA PUMP　5.アンセム/ヴァンゲリス
+2002/7/15　1.東京/桑田佳祐　2.幸せですか？/セクシー8　3.幸せビーム！好き好きビーム！/ハッピー7　4.幸せきょうりゅう音頭/おどる11　5.楽園ベイベー/RIP SLYME
+2002/7/22　1.Any/ミスチル　2.東京/桑田佳祐　3.楽園ベイベー/RIP SLYME　4.In Motion/hide　5.アンダンテ/矢井田瞳
+2002/7/29　1.FLOATIN/ケミストリ　2.Any/ミスチル　3.一雫/ZONE　4.東京/桑田佳祐　5.楽園ベイベー/RIP SLYME
+2002/8/5　1.H/浜崎あゆみ　2.またここであいましょう/GLAY　3.Do it！Now/モーニング娘　4.Any/ミスチル　5.STAND BY YOU/SHAKA LABBITS175R
+2002/8/12　1.H/浜崎あゆみ　2.逢いたい気持ち/GLAY　3.Do it！Now/モーニング娘　4.Sincerely Yours/愛内里菜　5.under the sun/DAI
+2002/8/19　1.眠れぬ夜は君のせい/MISIA　2.H/浜崎あゆみ　3.WILL/中島美嘉　4.ハネモノ/スピッツ　5.水色の街/スピッツ
+2002/8/26　1.H/浜崎あゆみ　2.眠れぬ夜は君のせい/MISIA　3.今度までには/aiko　4.太陽は沈まない/THE ALFEE　5.ささやかな祈り/ELT
+2002/9/2　1.Because of you/w-inds　2.やる気！IT'S EASY/後藤真希　3.星空の秋子/氷川きよし　4.H/浜崎あゆみ　5.眠れぬ夜は君のせい/MISIA
+2002/9/9　1.大きな古時計/平井堅　2.VALENTI/BoA　3.蜃気楼/TETSU69　4.Pureness/上戸彩　5.北風と太陽/YeLLOW Generation0
+2002/9/16　1.大きな古時計/平井堅　2.Like a star in the night/倉木麻衣　3.ロマンティック浮かれモード/藤本美貴　4.VALENTI/BoA　5.恋人/氣志團
+2002/9/23　1.大きな古時計/平井堅　2.Wishing On The Same Star/安室奈美恵　3.VALENTI/BoA　4.I Love you, SAYONARA/Gaphia　5.無色/上原あずみ
+2002/9/30　1.大きな古時計/平井堅　2.The 美学/松浦亜弥　3.奇蹟/BoA　4.Wishing On The Same Star/安室奈美恵　5.VALENTI/BoA
+2002/10/7　1.Voyage/浜崎あゆみ　2.大きな古時計/平井堅　3.証/ZONE　4.花鳥風月/ケツメイシ　5.BE HAPPY 恋のやじろべえ/タンポポ
+2002/10/14　1.Voyage/浜崎あゆみ　2.大きな古時計/平井堅　3.大切なもの/ロードオブメジャー　4.The Perfect Vision/MINMI　5.花鳥風月/ケツメイシ
+2002/10/21　1.Voyage/浜崎あゆみ　2.まだ見ぬ景色/SOPHIA　3.大きな古時計/平井堅　4.大切なもの/ロードオブメジャー　5.The Perfect Vision/MINMI
+2002/10/28　1.PIKANCHI/嵐　2.またあえる日まで/ゆず　3.Voyage/浜崎あゆみ　4.大切なもの/ロードオブメジャー　5.The Perfect Vision/MINMI
+2002/11/4　1.solitude/KinKi　2.あさってはSunday/RAGFAIR　3.15 1/2/TETSU69　4.大切なもの/ロードオブメジャー　5.あんなに一緒だったのに/See-Saw
+2002/11/11　1.ここにいるぜぇ！/モーニング娘　2.INVOKE/TMR　3.大切なもの/ロードオブメジャー　4.solitude/KinKi　5.真実の詩/DAI
+2002/11/18　1.Ring/平井堅　2.大切なもの/ロードオブメジャー　3.INVOKE/TMR　4.ボーイフレンド/藤本美貴 　5.kizuna/上戸彩
+2002/11/25　1.It Takes Two/ケミストリ　2.NEW PARADISE/w-inds　3.星屑の街/ゴスペラーズ　4.Ring/平井堅　5.大切なもの/ロードオブメジャー
+2002/12/2　1.SHALL WE LOVE？ごまっとう　2.It Takes Two/ケミストリ　3.Deep Freeze/愛内里菜　4.Ring/平井堅　5.星屑の街/ゴスペラーズ
+2002/12/9　1.BLUE BE-BOP/RIPSLYME　2.It Takes Two/ケミストリ　3.白い花/ZONE　4.It Takes Two/ケミストリ　5.12月のLove song/Gackt
+2002/12/16　1.ding-dong/TOKIO　2.Make my day/倉木麻衣　3.It Takes Two/ケミストリ　4.大切なもの/ロードオブメジャー　5.もらい泣き/一青窈
+2002/12/23　1.HERO/ミスチル　2.草原の人/松浦亜弥　3.JEWEL SONG/BoA　4.もらい泣き/一青窈　5.若者たち/GOING STEADY
+2002/12/30　1.Love Me All Over/J-FRIENDS　2.UNTITLED 4 ballads/ELT　3.スノースマイル/バンプオブチキン　4.My Gift to You/ケミストリ　5.HERO/ミスチル
+2003/1/13　1.UNTITLED 4 ballads/ELT　2.HERO/ミスチル　3.大切なもの/ロードオブメジャー　4.もらい泣き/一青窈　5.Love Me All Over/J-FRIENDS
+2003/1/20　1.地上の星/中島みゆき　2.はじまりの合図/ケツメイシ　3.UNTITLED 4 ballads/ELT　4.大切なもの/ロードオブメジャー　5.残骸/BUCK-TICK
+2003/1/27　1.ハッピーライフ/175R　2.地上の星/中島みゆき　3.風のない海で抱きしめて/愛内里菜　4.空がきれい/RAGFAIR　5.大切なもの/ロードオブメジャー
+2003/2/3　1.茎/椎名林檎　2.地上の星/中島みゆき　3.雑走/ロードオブメジャー　4.ハッピーライフ/175R　5.月のしずく/RUI
+2003/2/10　1.COLORS/宇多田ヒカル　2.月のしずく/RUI　3.地上の星/中島みゆき　4.愛してる/中島美嘉　5.moment/Vivian or Kazuma
+2003/2/17　1.COLORS/宇多田ヒカル　2.月のしずく/RUI　3.渦/ポルノ　4.青/ゆず　5.je t'aime je t'aime/Tommy february6
+2003/2/24　1.月のしずく/RUI　2.とまどいながら/嵐　3.COLORS/宇多田ヒカル　4.明日への扉/I WiSH　5.呼吸/ゆず
+2003/3/3　1.明日への扉/I WiSH　2.月のしずく/RUI　3.白雲の城/氷川きよし　4.モーニング娘のひょっこりひょうたん島/モーニング娘　5.3番線/ゆず
+2003/3/10　1.明日への扉/I WiSH　2.月のしずく/RUI　3.To be, To be, Ten made To be/タッキー＆翼　4.スミレ/ゆず　5.Always/光永亮太
+2003/3/17　1.世界に一つだけの花/SMAP　2.明日への扉/I WiSH　3.Time after time/倉木麻衣　4.月のしずく/RUI　5.Always/光永亮太
+2003/3/24　1.世界に一つだけの花/SMAP　2.ロストマン/バンプオブチキン　3.ね〜え？/松浦亜弥　4.明日への扉/I WiSH　5.real Emotion/倖田來未
+2003/3/31　1.世界に一つだけの花/SMAP　2.君が追いかけた夢/Gackt　3.全部、君だった/山崎まさよし　4.メジルシの記憶/V6　5.real Emotion/倖田來未
+2003/4/7　1.IT'S SHOWTIME！/B'z　2.世界に一つだけの花/SMAP　3.BE THERE/B'z　4.ZERO/B'z　5.愛のままにわがままに 僕は君だけを傷つけない/B'z
+2003/4/14　1.世界に一つだけの花/SMAP　2.IT'S SHOWTIME！/B'z　3.real Emotion/倖田來未　4.明日への扉/I WiSH　5.月のしずく/RUI
+2003/4/21　1.永遠のBLOODS/KinKi　2.世界に一つだけの花/SMAP　3.青春時代/GOING STEADY　4.明日を夢見て/ZARD　5.Love Addict/中島美嘉
+2003/4/28　1.空に唄えば/175R　2.世界に一つだけの花/SMAP　3.true blue/ZONE　4.さくら/森山直太朗　5.永遠のBLOODS/KinKi
+2003/5/5　1.AS FOR ONE DAY/モーニング娘　2.さくら/森山直太朗　3.空に唄えば/175R　4.蝶々結び/aiko　5.Believe/玉置成美
+2003/5/12　1.さくら/森山直太朗　2.お前やないとあかんねん/桜庭裕一郎　3.Kiss/倉木麻衣　4.空に唄えば/175R　5.世界に一つだけの花/SMAP
+2003/5/19　1.さくら/森山直太朗　2.しあわせになろうよ/長渕剛　3.LIFE is/平井堅　4.世界に一つだけの花/SMAP　5.お前やないとあかんねん/桜庭裕一郎
+2003/5/26　1.さくら/森山直太朗　2.Shine We Are！/BoA　3.FULL JUMP/愛内里菜　4.LIFE is/平井堅　5.世界に一つだけの花/SMAP
+2003/6/2　1.SUPER LOVER/w-inds　2.さくら/森山直太朗　3.未完成/山崎まさよし　4.Sign/鬼束ちひろ　5.Shine We Are！/BoA
+2003/6/9　1.Darling/V6　2.Breezin/EXILE　3.風のららら/倉木麻衣　4.さくら/森山直太朗　5.佐賀県/はなわ
+2003/6/16　1.HELLO/HYDE　2.Breezin/EXILE　3.GOOD BYE 夏男/松浦亜弥　4.Darling/V6　5.佐賀県/はなわ
+2003/6/23　1.KI/稲葉浩志　2.Breezin/EXILE　3.月の詩/Gackt　4.魔法の言葉/DAI　5.スウィンギンニッポン/氣志團
+2003/6/30　1.心に夢を君には愛を/KinKi　2.JOINT/RIPSLYME　3.七転び八起き/RAGFAIR　4.薔薇色の世界/PIERROT　5.スクランブル/後藤真希
+2003/7/7　1.勝手にシンドバッド/サザン　2.morrow/DragonAsh　3.心に夢を君には愛を/KinKi　4.接吻/中島美嘉　5.Lu:na/Gackt
+2003/7/14　1.COSMIC RESCUE/V6　2.勝手にシンドバッド/サザン　3.morrow/DragonAsh　4.Our Song/安倍麻美　5.Let's go to the sea/TUBE
+2003/7/21　1.＆/浜崎あゆみ　2.壊れない愛がほしいの/7AIR　3.LET ME LUV U DOWN/EXILE　4.瞳閉じて/ZARD　5.morrow/DragonAsh
+2003/7/28　1.野性のENERGY/B'z　2.＆/浜崎あゆみ　3.夏の思い出/ケツメイシ　4.Right on, Babe/ゴスペラーズ　5.Wait till I can dream/Tommy heavenly6
+2003/8/4　1.涙の海で抱かれたい/サザン　2.＆/浜崎あゆみ　3.Realize/玉置成美　4.銀の龍の背に乗って/中島みゆき　5.野性のENERGY/B'z
+2003/8/11　1.涙の海で抱かれたい/サザン　2.シャボン玉/モーニング娘　3.HANABI/ZONE　4.＆/浜崎あゆみ　5.上海ハニー/オレンジレンジ
+2003/8/18　1.アシタヘカエル/ケミストリ　2.涙の海で抱かれたい/サザン　3.アンドロメダ/aiko　4.FIND THE WAY/中島美嘉　5.音のない森/ポルノ
+2003/8/25　1.薄荷キャンディー/KinKi　2.22歳の私/安倍なつみ　3.涙の海で抱かれたい/サザン　4.アシタヘカエル/ケミストリ　5.タンポポの詩/THE ALFEE
+2003/9/1　1.forgiveness/浜崎あゆみ　2.Love is message/w-inds　3.薄荷キャンディー/KinKi Kids　4.太陽/ケツメイシ　5.涙の海で抱かれたい/サザン
+2003/9/8　1.虹/福山雅治　2.Be My Love/SPEED 　3.異邦人/TAK MATSUMOTO　4.抱いてよ！PLEASE GO ON/後藤真希　5.forgiveness/浜崎あゆみ
+2003/9/15　1.虹/福山雅治　2.ハダシの未来/嵐　3.moon gate/day after tomorrow　4.MONSTER TREE/SHAKALABBITS　5.異邦人/TAK MATSUMOTO
+2003/9/22　1.虹/福山雅治　2.moon gate/day after tomorrow　3.デェラ・シエラ・ム/CHAGE and ASKA　4.君に捧げるlove song/浜田省吾　5.ハダシの未来/嵐
+2003/9/29　1.虹/福山雅治　2.晴れ雨のちスキ?/モーニング娘　3.愛の園/モーニング娘　4.moon gate/day after tomorrow　5.ハダシの未来/嵐
+2003/10/6　1.虹/福山雅治　2.メリッサ/ポルノ　3.THE LAST NIGHT/松浦亜弥　4.本日ハ晴天ナリ/DAI　5.moon gate/day after tomorrow
+2003/10/13　1.AMBITIOUS JAPAN/TOKIO　2.TALI/YOSHII LOVINSON　3.虹/福山雅治　4.雪の華/中島美嘉　5.ラブリィ/TAMAO&KIYOSHI
+2003/10/20　1.イミテイションゴールド/TAK MATSUMOTO　2.エレクトリックサーカス/ミッシェルガン　3.メリッサ/ポルノ　4.AMBITIOUS JAPAN/TOKIO　5.虹/福山雅治
+2003/10/27　1.BEAUTIFUL DREAMER/GLAY　2.メリッサ/ポルノ　3.雪の華/中島美嘉　4.虹/福山雅治　5.CRAZY ABOUT YOU/ミニモニ
+2003/11/3　1.歩行者優先/ゆず　2.DOUBLE/BoA　3.ビバロック/オレンジレンジ　4.新大阪/ゴスペラーズ　5.メリッサ/ポルノ
+2003/11/10　1.Long Road/w-inds　2.僕の手紙/ZONE　3.ビバロック/オレンジレンジ　4.いい日旅立ち・西へ/鬼束ちひろ　5.雪の華/中島美嘉
+2003/11/17　1.No way to say/浜崎あゆみ　2.Choo Choo TRAIN/EXILE　3.愛が呼ぶほうへ/ポルノ　4.Go Girl/モーニング娘　5.えりあし/aiko
+2003/11/24　1.夢物語/タッキー＆翼　2.No way to say/浜崎あゆみ　3.またあした/ELT　4.Choo Choo TRAIN/EXILE　5.Last Song/Gackt
+2003/12/1　1.掌/ミスチル　2.YOUR NAME NEVER GONE/ケミストリ　3.No way to say/浜崎あゆみ　4.愛が呼ぶほうへ/ポルノ　5.kizuna/EXILE
+2003/12/8　1.掌/ミスチル　2.りんごのうた/椎名林檎　3.原色GAL派手に行くべ！/後藤真希　4.YOUR NAME NEVER GONE/ケミストリ　5.No way to say/浜崎あゆみ
+2003/12/15　1.ラック/ポルノ　2.掌/ミスチル　3.ヨロコビノウタ/MONGOL800　4.ラブラブマンハッタン/TOKIO　5.Rock With You/BoA
+2003/12/22　1.ヨロコビノウタ/MONGOL800　2.掌/ミスチル　3.ラック/ポルノ　4.愛が呼ぶほうへ/ポルノ　5.ラブラブマンハッタン/TOKIO
+2003/12/29　1.ヨロコビノウタ/MONGOL800　2.Dear Friends/day after tomorrow　3.掌/ミスチル　4.心に花の咲く方へ/ASKA　5.愛が呼ぶほうへ/ポルノ
+2004/1/12　1.世界に一つだけの花/SMAP　2.掌/ミスチル　3.さくら/森山直太朗　4.ヨロコビノウタ/MONGOL800　5.愛が呼ぶほうへ/ポルノ
+2004/1/19　1.世界に一つだけの花/SMAP 　2.SWEET CANDY RAIN/YOSHII LOVINSON　3.掌/ミスチル　4.さくら/森山直太朗　5.Jupiter/平原綾香
+2004/1/26　1.ね、がんばるよ。/KinKi　2.世界に一つだけの花/SMAP　3.Jupiter/平原綾香　4.桜/河口恭吾　5.太陽/森山直太朗
+2004/2/2　1.スターゲイザー/スピッツ　2.愛あらば IT'S ALL RIGHT/モーニング娘　3.Jupiter/平原綾香　4.きよしのドドンパ/氷川きよし　5.ね、がんばるよ。/KinKi
+2004/2/9　1.時の雫/GLAY　2.Jupiter/平原綾香　3.奇跡の香りダンス/松浦亜弥　4.桜/河口恭吾　5.スターゲイザー/スピッツ
+2004/2/16　1.READY STEADY GO/ラルク　2.Jupiter/平原綾香　3.So in Vain/ケミストリ　4.桜/河口恭吾　5.卒業/ZONE
+2004/2/23　1.One Day, One Dream/タッキー＆翼　2.Jupiter/平原綾香　3.READY STEADY GO/ラルク　4.ハナミズキ/一青窈　5.ロックンロール/くるり
+2004/3/1　1.PIKANCHI DOUBLE/嵐　2.やさしいキスをして/ドリカム　3.Jupiter/平原綾香　4.希望の橋/THE ALFEE　5.READY STEADY GO/ラルク
+2004/3/8　1.ミチシルベ/オレンジレンジ　2.さくら満開/モーニング娘　3.Albireo/TMR　4.まっ白/小田和正　5.友情/モーニング娘
+2004/3/15　1.瞳の住人/ラルク　2.ミチシルベ/オレンジレンジ　3.やさしいキスをして/ドリカム　4.トランジスタGガール/TOKIO　5.GLORY DAYS/175R
+2004/3/22　1.Wonderful Life/＆G　2.Pieces/w-inds　3.ミチシルベ/オレンジレンジ　4.やさしいキスをして/ドリカム　5.さくらんぼ/大塚愛
+2004/3/29　1.全てが僕の力になる/くず　2.Dandelion/RIP SLYME　3.Wonderful Life/＆G　4.ミチシルベ/オレンジレンジ　5.サヨナラのLOVESONG/後藤真希
+2004/4/5　1.ありがとうのうた/V6　2.全てが僕の力になる/くず　3.Wonderful Life/＆G　4.FREEDOM/JanneDaArc　5.さくらんぼ/大塚愛
+2004/4/12　1.Moments/浜崎あゆみ　2.アルエ/バンプオブチキン　3.OH JAPAN/TMG　4.全てが僕の力になる/くず　5.ありがとうのうた/V6
+2004/4/19　1.Moments/浜崎あゆみ　2.アルエ/バンプオブチキン　3.SEVEN/中島美嘉　4.OH JAPAN/TMG　5.Kiss Me/JanneDaArc
+2004/4/26　1.彩/サザン　2.サイレン/アジカン　3.Moments/浜崎あゆみ　4.アルエ/バンプオブチキン　5.釧路湿原/水森かおり
+2004/5/3　1.誰かの願いが叶うころ/宇多田ヒカル　2.涙/ケツメイシ　3.彩/サザン　4.Old Fashioned Love Song/RAGFAIR　5.マスカラまつげ/ドリカム
+2004/5/10　1.誰かの願いが叶うころ/宇多田ヒカル　2.瞳をとじて/平井堅　3.かばん/aiko　4.涙/ケツメイシ　5.彩/サザン
+2004/5/17　1.BANZAI/B'z　2.瞳をとじて/平井堅　3.誰かの願いが叶うころ/宇多田ヒカル　4.涙/ケツメイシ　5.彩/サザン
+2004/5/24　1.希望/NEWS　2.Carry On/EXILE　3.瞳をとじて/平井堅　4.浪漫/モーニング娘　5.BANZAI/B'z
+2004/5/31　1.天使のわけまえ/GLAY　2.瞳をとじて/平井堅　3.明日へ架ける橋/倉木麻衣　4.希望/NEWS　5.キミはともだち/平井堅
+2004/6/7　1.Sign/ミスチル　2.瞳をとじて/平井堅　3.ROMANCE/JanneDaArc　4.LOVE＆HONEY/倖田來未　5.キミはともだち/平井堅
+2004/6/14　1.自由への招待/ラルク　2.Sign/ミスチル　3.桜木町/ゆず　4.キレイだ/w-inds　5.瞳をとじて/平井堅
+2004/6/21　1.WAVER/堂本剛　2.ロコローション/オレンジレンジ　3.Sign/ミスチル　4.瞳をとじて/平井堅　5.evergreen/CROSS CLOVER
+2004/6/28　1.ロコローション/オレンジレンジ　2.Sign/ミスチル　3.瞳をとじて/平井堅　4.WAVER/堂本剛　5.Night Deluxe/Lead
+2004/7/5　1.ロコローション/オレンジレンジ　2.Sign/ミスチル　3.瞳をとじて/平井堅　4.かけがえのないもの/ZARD　5.ココロオドル/nobodyknows
+2004/7/12　1.real world/EXILE　2.ロコローション/オレンジレンジ　3.瞳をとじて/平井堅　4.HANA/RAGFAIR　5.夏祭り/TUBE
+2004/7/19　1.オンリーロンリーグローリー/バンプオブチキン　2.番場の忠太郎/氷川きよし　3.Happy Days/大塚愛　4.mirage in blue/ケミストリ　5.GALAXY/RIPSLYME
+2004/7/26　1.Wonderland/稲葉浩志　2.Shade/DragonAsh　3.YOUR SONG/松浦亜弥　4.朔/Dir en grey　5.番場の忠太郎/氷川きよし
+2004/8/2　1.君こそスターだ/サザン　2.栄光の架橋/ゆず　3.女子かしまし物語/モーニング娘　4.Wonderland/稲葉浩志　5.夕焼けファルセット/175R
+2004/8/9　1.INSPIRE/浜崎あゆみ　2.君にBUMP/ケツメイシ　3.君こそスターだ/サザン　4.虹/福山雅治　5.Web of Night/TMR
+2004/8/16　1.Blue Jean/GLAY　2.サンダーバード/V6　3.INSPIRE/浜崎あゆみ　4.リライト/アジカン　5.君こそスターだ/サザン
+2004/8/23　1.紅く燃ゆる太陽/NEWS　2.かたちあるもの/柴咲コウ　3.君にBUMP/ケツメイシ　4.INSPIRE/浜崎あゆみ　5.恋のテレフォンGOAL/安倍なつみ
+2004/8/30　1.瞳の中のGalaxy/嵐　2.かたちあるもの/柴咲コウ　3.金魚花火/大塚愛　4.HEART of GOLD/EXILE　5.紅く燃ゆる太陽/NEWS
+2004/9/6　1.チェスト/オレンジレンジ　2.かたちあるもの/柴咲コウ　3.瞳の中のGalaxy/嵐　4.lost angel/day after tomorrow　5.浪花いろは節/関ジャニ∞
+2004/9/13　1.ARIGATO/B'z　2.花風/aiko　3.かたちあるもの/柴咲コウ　4.QUINCY/BoA　5.時の舟/松たか子
+2004/9/20　1.Mickey/Gorie　2.群青日和/東京事変　3.シスター/ポルノ　4.かたちあるもの/柴咲コウ　5.ARIGATO/B'z
+2004/9/27　1.Mickey/Gorie　2.シスター/ポルノ　3.群青日和/東京事変　4.かたちあるもの/柴咲コウ　5.ARIGATO/B'z
+2004/10/4　1.浪花いろは節/関ジャニ∞　2.Mickey/Gorie　3.君の街まで/アジカン　4.かたちあるもの/柴咲コウ　5.シスター/ポルノ
+2004/10/11　1.CAROLS/浜崎あゆみ　2.Mickey/Gorie　3.かたちあるもの/柴咲コウ　4.シスター/ポルノ　5.浪花いろは節/関ジャニ∞
+2004/10/18　1.思いがかさなるその前に/平井堅　2.四季/w-inds　3.CAROLS/浜崎あゆみ　4.恋愛戦隊シツレンジャー/後浦なつみ　5.黄昏サラウンド/RIPSLYME
+2004/10/25　1.思いがかさなるその前に/平井堅　2.GIRL TALK/安室奈美恵　3.CAROLS/浜崎あゆみ　4.Mickey/Gorie　5.ロボキッス/W
+2004/11/1　1.花/オレンジレンジ　2.遭難/東京事変　3.大好きだよ/大塚愛　4.思いがかさなるその前に/平井堅　5.LEGEND/中島美嘉
+2004/11/8　1.花/オレンジレンジ　2.君に逢いたくて/Gackt　3.ミモザ/ゴスペラーズ　4.Long Long Way/ケミストリ　5.思いがかさなるその前に/平井堅
+2004/11/15　1.ignited/TMR　2.花/オレンジレンジ　3.愛想曲/タッキー＆翼　4.涙が止まらない放課後/モーニング娘　5.ラヴレター/ドリカム
+2004/11/22　1.花/オレンジレンジ　2.Reason/玉置成実　3.黄昏ロマンス/ポルノ　4.正夢/スピッツ　5.ignited/TMR
+2004/11/29　1.花/オレンジレンジ　2.チキンライス/浜田雅功と槙原敬之　3.Love is Here/JanneDaArc　4.自分のために/TOKIO　5.ギター侍のうた/波田陽区
+2004/12/6　1.愛と欲望の日々/サザン　2.花/オレンジレンジ　3.チキンライス/浜田雅功と槙原敬之　4.ギター侍のうた/波田陽区　5.今日はゆっくり話そう/ZARD
+2004/12/13　1.泣いたりしないで/福山雅治　2.HERO/EXILE　3.車輪の唄/バンプオブチキン　4.愛と欲望の日々/サザン　5.ALL FOR ONE＆ONE FOR ALL/HPオールスターズ
+2004/12/20　1.ホワイトロード/GLAY　2.愛と欲望の日々/サザン　3.泣いたりしないで/福山雅治　4.HERO/EXILE　5.メリクリ/BoA
+2004/12/27　1.恋文/ELT　2.楽園/DAI　3.花/オレンジレンジ　4.愛と欲望の日々/サザン　5.ホワイトロード/GLAY
+2005/1/3　1.Anniversary/KinKi　2.花/オレンジレンジ　3.恋文/ELT　4.マツケンサンバ㈼/松平健　5.ネギま！/文化部４人組
+2005/1/17　1.Anniversary/KinKi　2.夢の場所へ/w-inds　3.マツケンサンバ㈼/松平健　4.Jupiter/平原綾香　5.恋文/ELT
+2005/1/24　1.Killing Me/ラルク　2.CALL ME/YOSHII LOVINSON　3.シアワセナラテヲタタコウ/nobodyknows　4.君と逢えた奇蹟/day after tomorrow　5.Anniversary/KinKi
+2005/1/31　1.友達へ/SMAP　2.月光花/JanneDaArc　3.いつか/清木場俊介　4.THEマンパワー/モーニング娘　5.Killing Me/ラルク
+2005/2/7　1.ファンタスティポ/トラジハイジ　2.PRIDE/HandM COLOR　3.友達へ/SMAP　4.月光花/JanneDaArc　5.Love needing/倉木麻衣
+2005/2/14　1.ファンタスティポ/トラジハイジ　2.NO MORE CRY/D-51　3.未来の地図/Mi　4.Life Goes On/有坂美香　5.桜色舞うころ/中島美嘉
+2005/2/21　1.初恋列車/氷川きよし　2.NO MORE CRY/D-51　3.黒毛和牛上塩タン焼き680円/大塚愛　4.ファンタスティポ/トラジハイジ　5.月光花/JanneDaArc
+2005/2/28　1.さくら/ケツメイシ　2.三国駅/aiko　3.何度でも/ドリカム　4.NO MORE CRY/D-51　5.初恋列車/氷川きよし
+2005/3/7　1.アスタリスク/オレンジレンジ　2.さくら/ケツメイシ　3.NO MORE CRY/D-51　4.キミがいる/ケミストリ　5.何度でも/ドリカム
+2005/3/14　1.アスタリスク/オレンジレンジ　2.ネオメロドラマティック/ポルノ　3.さくら/ケツメイシ　4.大阪レイニーブルース/関ジャニ∞　5.NO MORE CRY/D-51
+2005/3/21　1.愛のバクダン/B'z　2.さくら/ケツメイシ　3.アスタリスク/オレンジレンジ　4.ネオメロドラマティック/ポルノ　5.over/K
+2005/3/28　1.チェリッシュ/NEWS　2.さくら/ケツメイシ　3.変わりゆく空/w-inds　4.愛のバクダン/B'z　5.アスタリスク/オレンジレンジ
+2005/4/4　1.サクラ咲ケ/嵐　2.さくら/ケツメイシ　3.Delightful/鈴木亜美　4.チェリッシュ/NEWS　5.ダンシング/倉木麻衣
+2005/4/11　1.DO THE MOTION/BoA　2.さくら/ケツメイシ　3.リルラリルハ/木村カエラ　4.さくらんぼ/大塚愛　5.サクラ咲ケ/嵐
+2005/4/18　1.New World/ラルク　2.WANT ME WANT ME/安室奈美恵　3.さくら/ケツメイシ　4.DO THE MOTION/BoA　5.ハッピーマテリアル/麻帆良学園中等部
+2005/4/25　1.僕たちの行方/高橋瞳　2.桜/リュシウォン　3.光と影の季節/浜田省吾　4.さくら/ケツメイシ　5.New World/ラルク
+2005/5/2　1.STEP you/浜崎あゆみ　2.星のかがやきよ/ZARD　3.全力少年/スキマスイッチ　4.さくら/ケツメイシ　5.春の歌/スピッツ
+2005/5/9　1.STEP you/浜崎あゆみ　2.大阪恋の歌/モーニング娘　3.BLACK STONE/Gackt　4.長い夢/YUKI　5.I Wanna Go To A Place/Rie fu
+2005/5/16　1.仮面/タッキー＆翼　2.STEP you/浜崎あゆみ　3.さくら/ケツメイシ　4.全力少年/スキマスイッチ　5.長い夢/YUKI
+2005/5/23　1.SMILY/大塚愛　2.ここにしか咲かない花/コブクロ　3.ハッピーマテリアル/麻帆良学園中等部　4.おしえてほしいぞぉ、師匠/麻帆良学園中等部　5.STEP you/浜崎あゆみ
+2005/5/30　1.叙情詩/ラルク　2.恋におちたら/CrystalKay　3.ダイヤモンドヴァージン/JanneDaArc　4.ここにしか咲かない花/コブクロ　5.SMILY/大塚愛
+2005/6/6　1.ラヴパレード/オレンジレンジ　2.Metamorphoze/Gackt　3.初花凛々/SINGER SONGER　4.恋におちたら/CrystalKay　5.ここにしか咲かない花/コブクロ
+2005/6/13　1.ラヴパレード/オレンジレンジ　2.crush the window/DragonAsh　3.DAYS/FLOW　4.トンガリキッズ㈵/トンガリキッズ　5.恋におちたら/CrystalKay
+2005/6/20　1.お願い！セニョリータ/オレンジレンジ　2.Dreamland/BENNIE K　3.ラヴパレード/オレンジレンジ　4.ハッピーマテリアル/麻帆良学園中等部　5.I am a father/浜田省吾
+2005/6/27　1.ビロードの闇/KinKi　2.お願い！セニョリータ/オレンジレンジ　3.Dreamland/BENNIE K　4.俺達には土曜日しかない/氣志團　5.お願い！セニョリータ/オレンジレンジ
+2005/7/4　1.UTAO-UTAO/V6　2.Butterfly/倖田來未　3.Dreamland/BENNIE K　4.お願い！セニョリータ/オレンジレンジ　5.ビロードの闇/KinKi
+2005/7/11　1.四次元/ミスチル　2.ドラマチック/YUKI　3.Dreamland/BENNIE K　4.Butterfly/倖田來未　5.UTAO-UTAO/V6
+2005/7/18　1.四次元/ミスチル　2.面影の都/氷川きよし　3.ハッピーマテリアル/麻帆良学園中等部　4.D-tecnoLife/UVERworld　5.Dreamland/BENNIE K
+2005/7/25　1.TEPPEN/NEWS　2.四次元/ミスチル　3.ネコに風船/大塚愛　4.夕凪UNION/DragonAsh　5.Dreamland/BENNIE K
+2005/8/1　1.SCREAM/GLAY×EXILE　2.Link/ラルク　3.BOHBO No.5/サザン　4.プラネタリウム/バンプオブチキン　5.四次元/ミスチル
+2005/8/8　1.BANG！BANG！バカンス！/SMAP　2.Wings of Words/ケミストリ　3.SCREAM/GLAY×EXILE　4.色っぽいじれったい/モーニング娘　5.ひまわりのRhapsody/リュシウォン
+2005/8/15　1.fairlyland/浜崎あゆみ　2.キラキラ/aiko　3.NaNaNaサマーガール/ポルノ　4.君は僕に似ている/See-Saw　5.BANG！BANG！バカンス！/SMAP
+2005/8/22　1.OCEAN/B'z　2.fairlyland/浜崎あゆみ　3.届カナイ愛ト知ッテイタノニ抑エキレズニ愛シ続ケタ/Gackt　4.flower/倖田來未　5.キラキラ/aiko
+2005/8/29　1.vestige/TMR　2.東京/福山雅治　3.OCEAN/B'z　4.100億のLoveStory/THE ALFEE　5.fairlyland/浜崎あゆみ
+2005/9/5　1.キズナ/オレンジレンジ　2.EXIT/EXILE　3.OCEAN/B'z　4.CLOSE YOUR EYES/長渕剛　5.東京/福山雅治
+2005/9/12　1.GLAMOROUS SKY/NANA　2.キズナ/オレンジレンジ　3.十六夜の月/w-inds　4.言いたいことも言えずに/塚地武雅・堤下敦・梶原雄太　5.make a secret/BoA
+2005/9/19　1.GLAMOROUS SKY/NANA　2.ENDLESS STORY/YUNA ITO　3.キズナ/オレンジレンジ　4.Promise/倖田來未　5.歓びの種/YUKI
+2005/9/26　1.HEAVEN/浜崎あゆみ　2.好きやねん、大阪/関ジャニ∞　3.PecoriNight/Gorie　4.GLAMOROUS SKY/NANA　5.ENDLESS STORY/YUNA ITO
+2005/10/3　1.プラネタリウム/大塚愛　2.HEAVEN/浜崎あゆみ　3.GLAMOROUS SKY/NANA　4.ENDLESS STORY/YUNA ITO　5.焔の扉/FictionJunction YUUKA
+2005/10/10　1.Be My Last/宇多田ヒカル　2.HEAVEN/浜崎あゆみ　3.ENDLESS STORY/YUNA ITO　4.プラネタリウム/大塚愛　5.GLAMOROUS SKY/NANA
+2005/10/17　1.COUNTDOWN/HYDE　2.Two As One/Crystal Kay×ケミストリ　3.Sweet Mom/柴咲コウ　4.ENDLESS STORY/YUNA ITO　5.How Many More Times/Ken Yokoyama
+2005/10/24　1.Orange/V6　2.蒼の世界/レミオロメン　3.Two As One/Crystal Kay×ケミストリ　4.ENDLESS STORY/YUNA ITO　5.Thank you/浜田省吾
+2005/10/31　1.好きすぎてバカみたい/DEF.DIVA　2.ETERNAL BLAZE/水樹奈々　3.ENDLESS STORY/YUNA ITO　4.スタートライン/SE7EN　5.Two As One/Crystal Kay×ケミストリ
+2005/11/7　1.POP STAR/平井堅　2.きみのて/ELT　3.ENDLESS STORY/YUNA ITO　4.Baby I Love You/くるり　5.CHANCE/UVERworld
+2005/11/14　1.青春アミーゴ/修二と彰　2.僕のキモチ/WaT　3.桜/コブクロ　4.POP STAR/平井堅　5.修羅場/東京事変
+2005/11/21　1.青春アミーゴ/修二と彰　2.超特急/ゆず　3.僕のキモチ/WaT　4.直感2/モ−ニング娘　5.POP STAR/平井堅
+2005/11/28　1.WISH/嵐　2.青春アミーゴ/修二と彰　3.ジョバイロ/ポルノ　4.粉雪/レミオロメン　5.桜/コブクロ
+2005/12/5　1.Triangle/SMAP　2.supernova/バンプオブチキン　3.青春アミーゴ/修二と彰　4.粉雪/レミオロメン　5.Only Human/K
+2005/12/12　1.Bold＆Delicious/浜崎あゆみ　2.青春アミーゴ/修二と彰　3.粉雪/レミオロメン　4.スター/aiko　5.ブルートレイン/アジカン
+2005/12/19　1.you/倖田來未　2.粉雪/レミオロメン　3.明日を目指して/TOKIO　4.青春アミーゴ/修二と彰　5.Space Sonic/ELLEGARDEN
+2005/12/26　1.ただ逢いたくて/EXILE　2.粉雪/レミオロメン　3.supernova/バンプオブチキン　4.Passion/宇多田ヒカル　5.青春アミーゴ/修二と彰
+2006/1/2　1.SNOW！SNOW！SNOW！/KinKi　2.ただ逢いたくて/EXILE　3.青春アミーゴ/修二と彰　4.粉雪/レミオロメン　5.D.D.D/倖田來未
+2006/1/16　1.青春アミーゴ/修二と彰　2.粉雪/レミオロメン　3.ただ逢いたくて/EXILE　4.SNOW！SNOW！SNOW！/KinKi　5.supernova/バンプオブチキン
+2006/1/23　1.feel/倖田來未　2.一輪の花/HandM COLOR　3.粉雪/レミオロメン　4.青春アミーゴ/修二と彰　5.ただ逢いたくて/EXILE
+2006/1/30　1.Venus/タッキー＆翼　2.粉雪/レミオロメン　3.Candy/倖田來未　4.Everlasting/BoA　5.青春アミーゴ/修二と彰
+2006/2/6　1.衝動/B'z　2.5センチ/WaT　3.REDEMPTION/Gackt　4.No Regret/倖田來未　5.Venus/タッキー＆翼
+2006/2/13　1.ソメイヨシノ/エンドリケリ　2.Venus/タッキー＆翼　3.I believe/絢香　4.衝動/B'z　5.今すぐ欲しい/倖田來未
+2006/2/20　1.Mr.Traveling Man/TOKIO　2.振り向けば/JanneDaArc　3.KAMEN/倖田來未　4.I believe/絢香　5.ベストオブヒーロー/倉木麻衣
+2006/2/27　1.ワールドアパート/アジカン　2.影/柴咲コウ　3.WIND/倖田來未　4.I believe/絢香　5.Mr.Traveling Man/TOKIO
+2006/3/6　1.SEASON'S CALL/HYDE　2.Keep Tryin/宇多田ヒカル　3.Someday/倖田來未　4.Around The World/MONKEY MAJIK　5.音速パンチ/Cocco
+2006/3/13　1.YES！/EXILE　2.太陽の下/レミオロメン　3.ボクノート/スキマスイッチ　4.Around The World/MONKEY MAJIK　5.Keep Tryin/宇多田ヒカル
+2006/3/20　1.Startin/浜崎あゆみ　2.純恋歌/湘南乃風　3.太陽の下/レミオロメン　4.Around The World/MONKEY MAJIK　5.ボクノート/スキマスイッチ
+2006/3/27　1.サヤエンドウ/NEWS　2.一剣/氷川きよし　3.純恋歌/湘南乃風　4.SEXY BOY/モーニング娘　5.Startin/浜崎あゆみ
+2006/4/3　1.Real Face/KAT-TUN　2.純恋歌/湘南乃風　3.サヤエンドウ/NEWS　4.being/KOTOKO　5.太陽の下/レミオロメン
+2006/4/10　1.Real Face/KAT-TUN　2.純恋歌/湘南乃風　3.人間じゃろうが/清木場俊介　4.VS/misono　5.GLORIOUS/愛内里菜
+2006/4/17　1.Real Face/KAT-TUN　2.夏の夢/リュシウォン　3.七色の明日/BoA　4.純恋歌/湘南乃風　5.熊野古道/水森かおり
+2006/4/24　1.ゆるぎないものひとつ/B'z　2.フレンジャー/大塚愛　3.純恋歌/湘南乃風　4.Real Face/KAT-TUN　5.七色の明日/BoA
+2006/5/1　1.Dear WOMAN/SMAP　2.Believe/AI　3.ゆるぎないものひとつ/B'z　4.純恋歌/湘南乃風　5.フレンジャー/大塚愛
+2006/5/8　1.旅人/ケツメイシ　2.Dear WOMAN/SMAP　3.純恋歌/湘南乃風　4.アゲアゲEVERY騎士/DJ OZMA　5.Believe/AI
+2006/5/15　1.旅人/ケツメイシ　2.Dear WOMAN/SMAP　3.Precious/伊藤由奈　4.純恋歌/湘南乃風　5.Result/玉置成実
+2006/5/22　1.チャンピオーネ/オレンジレンジ　2.HEAVEN/JanneDaArc　3.Precious/伊藤由奈　4.旅人/ケツメイシ　5.ハレ晴レユカイ/平野綾
+2006/5/29　1.きっと大丈夫/嵐　2.CANTSLEEP CANTEAT IM SICK/安室奈美恵　3.Colors of the Heart/UVERworld　4.Precious/伊藤由奈　5.チャンピオーネ/オレンジレンジ
+2006/6/5　1.milk tea/福山雅治　2.恋のつぼみ/倖田來未　3.TRIAL/w-inds　4.陽の照りながら雨の降る/Cocco　5.ヒカリ/堀江由衣
+2006/6/12　1.抱いてセニョリータ/山下智久　2.手を出すな/GAKU-MC,桜井和寿　3.milk tea/福山雅治　4.恋のつぼみ/倖田來未　5.HANABI/いきものがかり
+2006/6/19　1.SPLASH！/B'z　2.∞SAKAおばちゃんROCK/関ジャニ∞　3.抱いてセニョリータ/山下智久　4.milk tea/福山雅治　5.テルーのうた/手嶌葵
+2006/6/26　1.グッデイ！/V6　2.バイマイメロディー/平井堅　3.Good-bye days/YUI　4.抱いてセニョリータ/山下智久　5.SPLASH！/B'z
+2006/7/3　1.BLUE BIRD/浜崎あゆみ　2.Get Your Dream/TOKIO　3.Good-bye days/YUI　4.Ambitious！野心的でいいじゃん/モーニング娘　5.涼宮ハルヒの詰合/平野綾
+2006/7/10　1.The Rainbow Star/エンドリケリ　2.ハネウマライダー/ポルノ　3.BLUE BIRD/浜崎あゆみ　4.Good-bye days/YUI　5.A Perfect Sky/BONNIE PINK
+2006/7/17　1.箒星/ミスチル　2.ハネウマライダー/ポルノ　3.ラヴぃ/リップスライムとくるり　4.決意の朝に/Aqua Timez　5.Juice/くるりとリップスライム
+2006/7/24　1.Deep in your heart/堂本光一　2.G4/GLAY　3.雲は白リンゴは赤/aiko　4.箒星/ミスチル　5.魔法のコトバ/スピッツ
+2006/7/31　1.SIGNAL/KAT-TUN　2.to U/Bank Band　3.男女6人夏物語/ケツメイシ　4.箒星/ミスチル　5.決意の朝に/Aqua Timez
+2006/8/7　1.夏模様/KinKi　2.4 hot wave/倖田來未　3.SIGNAL/KAT-TUN　4.to U/Bank Band　5.君という名の翼/コブクロ
+2006/8/14　1.アオゾラペダル/嵐　2.ANSWER/GLAY　3.4 hot wave/倖田來未　4.Hava Rava/WaT　5.ユメクイ/大塚愛
+2006/8/21　1.DIRTY OLD MAN/サザン　2.Ho！サマー/タッキー＆翼　3.Salamander/ELLEGARDEN　4.4 hot wave/倖田來未　5.ANSWER/GLAY
+2006/8/28　1.ガラナ/スキマスイッチ　2.DIRTY OLD MAN/サザン　3.いつまでも響くこのmelody/mihimaruGT　4.Ho！サマー/タッキー＆翼　5.4 hot wave/倖田來未
+2006/9/4　1.宙船/TOKIO　2.ガラナ/スキマスイッチ　3.DIRTY OLD MAN/サザン　4.Speed/Ken　5.E-ヨ/米米CLUB
+2006/9/11　1.フィーバーとフューチャー/GYM　2.タイヨウのうた/Kaoru Amane　3.UN ROCK STAR/オレンジレンジ　4.宙船/TOKIO　5.the Fourth Avenue Cafe/ラルク
+2006/9/18　1.タイヨウのうた/Kaoru Amane　2.たらこたらこたらこ/キグルミ　3.宙船/TOKIO　4.フィーバーとフューチャー/GYM　5.ブギウギ66/w-inds
+2006/9/25　1.夏音/GLAY　2.タイヨウのうた/Kaoru Amane　3.宙船/TOKIO　4.たらこたらこたらこ/キグルミ　5.Thanks/GAM
+2006/10/2　1.タイヨウのうた/Kaoru Amane　2.I remember you/YUI　3.タリホー/ザ・クロマニヨンズ　4.宙船/TOKIO　5.恋のPecoriLesson/Gorie
+2006/10/9　1.三日月/絢香　2.タイヨウのうた/Kaoru Amane　3.禊/AcQuA　4.宙船/TOKIO　5.One Night/DJ OZMA
+2006/10/16　1.Winding Road/ポルノ　2.三日月/絢香　3.SWEET REVOLUTION/氷室京介　4.約束の場所/ケミストリ　5.甘すぎた果実/安倍なつみ
+2006/10/23　1.ありがとう/SMAP　2.三日月/絢香　3.Only One/リュシウォン　4.Winding Road/ポルノ　5.SOME BOYS！TOUCH/後藤真希
+2006/10/30　1.夢のうた/倖田來未　2.ありがとう/SMAP　3.道標/橘慶太　4.三日月/絢香　5.the WORLD/ナイトメア
+2006/11/6　1.シーサイドばいばい/木更津キャッツアイ　2.恋愛写真/大塚愛　3.SAYONARA/オレンジレンジ　4.セーラー服と機関銃/星泉　5.夢のうた/倖田來未
+2006/11/13　1.Ready Go/WaT　2.Winter Love/BoA　3.シーサイドばいばい/木更津キャッツアイ　4.wish/INOUE AKIRA　5.Filth in the beauty/the GazettE
+2006/11/20　1.歩いてる/モーニング娘　2.COLORS/FLOW　3.miss you/東方神起　4.セツナレンサ/RADWIMPS　5.JoyTrip/BENNIE K
+2006/11/27　1.しるし/ミスチル　2.君の好きなうた/UVERworld　3.太陽の船/長渕剛　4.Justice to Believe/水樹奈々　5.Agitated Screams of Maggots/DIR EN GREY
+2006/12/4　1.涙のふるさと/バンプオブチキン　2.WON'T BE LONG/EXILE＆倖田來未　3.しるし/ミスチル　4.ぼくはくま/宇多田ヒカル　5.千の夜をこえて/Aqua Timez
+2006/12/11　1.Harmony of December/KinKi　2.クリスマスの約束/ゆずおだ　3.しるし/ミスチル　4.或る街の群青/アジカン　5.一色/NANA
+2006/12/18　1.僕らの街で/KAT-TUN　2.Everything/EXILE　3.Cherry Girl/倖田來未　4.ボクラノLove Story/WaT　5.INNOCENT SORROW/アビングドンボーイスクール
+2006/12/25　1.関風ファイティング/関ジャニ∞　2.僕らの街で/KAT-TUN　3.しるし/ミスチル　4.Everything/EXILE　5.Cherry Girl/倖田來未
+2007/1/1　1.ミソスープ/テゴマス　2.しるし/ミスチル　3.僕らの街で/KAT-TUN　4.白い雪/倉木麻衣　5.関風ファイティング/関ジャニ∞
+2007/1/15　1.しるし/ミスチル　2.僕らの街で/KAT-TUN　3.ミソスープ/テゴマス　4.千の風になって/秋川雅史　5.関風ファイティング/関ジャニ∞
+2007/1/22　1.千の風になって/秋川雅史　2.Man and Woman/CHAGE and ASKA　3.Here＆There/CHAGE and ASKA　4.しるし/ミスチル　5.HIROMI/柴田淳
+2007/1/29　1.100万回のKISS/GLAY　2.Lovers Again/EXILE　3.千の風になって/秋川雅史　4.Rolling star/YUI　5.哀歌/平井堅
+2007/2/5　1.フェイク/ミスチル　2.千の風になって/秋川雅史　3.Baby Don't Cry/安室奈美恵　4.Lovers Again/EXILE　5.Rolling star/YUI
+2007/2/12　1.HONEY BEAT/V6　2.千の風になって/秋川雅史　3.フェイク/ミスチル　4.Baby Don't Cry/安室奈美恵　5.Lovers Again/EXILE
+2007/2/19　1.空が泣くから/エンドリケリ　2.千の風になって/秋川雅史　3.野に咲く花のように/Gackt　4.Hyena/the GazettE　5.天国は待ってくれる/清木場俊介
+2007/2/26　1.道/EXILE　2.君に贈る歌/小池徹平　3.千の風になって/秋川雅史　4.笑顔YESヌード/モーニング娘　5.MyLove/川嶋あい
+2007/3/5　1.Love so sweet/嵐　2.千の風になって/秋川雅史　3.CHU-LIP/大塚愛　4.見えない星/中島美嘉　5.桜チラリ/℃-ute
+2007/3/12　1.Flavor Of Life/宇多田ヒカル　2.WINDING ROAD/絢香×コブクロ　3.Love so sweet/嵐　4.千の風になって/秋川雅史　5.君の好きなとこ/平井堅
+2007/3/19　1.Flavor Of Life/宇多田ヒカル　2.CHERRY/YUI　3.春風/ゆず　4.WINDING ROAD/絢香×コブクロ　5.千の風になって/秋川雅史
+2007/3/26　1.Flavor Of Life/宇多田ヒカル　2.BUT/倖田來未　3.茜空/レミオロメン　4.WINDING ROAD/絢香×コブクロ　5.千の風になって/秋川雅史
+2007/4/2　1.星をめざして/NEWS　2.蕾/コブクロ　3.Flavor Of Life/宇多田ヒカル　4.千の風になって/秋川雅史　5.Climax Jump/AAA
+2007/4/9　1.蕾/コブクロ　2.ひかりのまち/TOKIO　3.星をめざして/NEWS　4.千の風になって/秋川雅史　5.Flavor Of Life/宇多田ヒカル
+2007/4/16　1.鼓動/GLAY　2.蕾/コブクロ　3.FUNKY TOWN/安室奈美恵　4.Dear My Life/THE ALFEE　5.千の風になって/秋川雅史
+2007/4/23　1.ズッコケ男道/関ジャニ∞　2.東京にもあったんだ/福山雅治　3.トレイン/ケツメイシ　4.蕾/コブクロ　5.千の風になって/秋川雅史
+2007/4/30　1.ダメ/タッキー＆翼　2.SECRET AMBITION/水樹奈々　3.ルキンフォー/スピッツ　4.BABYLON/リュシウォン　5.Getチュー/AAA
+2007/5/7　1.BRAND NEW SONG/KinKi　2.悲しみトワイライト/モーニング娘　3.イカSUMMER/オレンジレンジ　4.Awaking Emotion 8/5/ウエンツ瑛士　5.Sweet Impact/BoA
+2007/5/14　1.We can make it/嵐　2.ハッピー/月島きらり　3.BRAND NEW SONG/KinKi　4.FRIEND/橘慶太　5.千の風になって/秋川雅史
+2007/5/21　1.永遠の翼/B'z　2.あばよ/氷川きよし　3.きよしのソーラン節.氷川きよし　4.蛍/レミオロメン　5.しおり/AquaTimez
+2007/5/28　1.明日晴れるかな/桑田佳祐　2.キッス/テゴマス　3.SUMMER TIME LOVE/EXILE　4.HOWLING/アビングドンボーイスクール　5.永遠の翼/B'z
+2007/6/4　1.ジャスミン/V6　2.もってけ！セーラーふく/泉こなた　3.明日晴れるかな/桑田佳祐　4.映画「しゃべれども しゃべれども」主題歌　5.WINNER/吉井和哉
+2007/6/11　1.SEVENTH HEAVEN/ラルク　2.シアワセ/aiko　3.愛しのナポリタン/トリオザシャキーン　4.endscape/UVERworld　5.明日晴れるかな/桑田佳祐
+2007/6/18　1.喜びの歌/KAT-TUN　2.睡蓮花/湘南乃風　3.レゾンデートル/ナイトメア　4.愛唄/グリーン　5.明日晴れるかな/桑田佳祐
+2007/6/25　1.My Generation/YUI　2.Lovin'you/東方神起　3.喜びの歌/KAT-TUN　4.きみにしか聞こえない/ドリカム　5.愛唄/グリーン
+2007/7/2　1.RETURNER/Gackt　2.愛唄/グリーン　3.My Generation/YUI　4.くればいいのに/KREVA　5.喜びの歌/KAT-TUN
+2007/7/9　1.FREAKY/倖田來未　2.また君に会える/ケツメイシ　3.空色デイズ/中川翔子　4.告白の噴水広場/Berryz工房　5.Mahaloha/伊藤由奈
+2007/7/16　1.FREE/ERIKA　2.Jewely day/絢香　3.FREAKY/倖田來未　4.LOVE IS THE GREATEST THING/w-inds　5.Nephilim/アビングドンボーイスクール
+2007/7/23　1.ミュージック/GoldenCircle　2.OSCA/東京事変　3.マリンスノウ/スキマスイッチ　4.FREE/ERIKA　5.めぐる恋の季節/℃-ute
+2007/7/30　1.glitter/浜崎あゆみ　2.リンク/ポルノ　3.イケナイ太陽/オレンジレンジ　4.SPELL MAGIC/Acid Black Cherry　5.夏もの/AAA
+2007/8/6　1.PEACH/大塚愛　2.女に幸あれ/モーニング娘　3.熱帯夜/RIP SLYME　4.glitter/浜崎あゆみ　5.イケナイ太陽/オレンジレンジ
+2007/8/13　1.Hey！Say！/Hey！Say！7　2.SUMMER/東方神起　3.ALONES/AquaTimez　4.群青/スピッツ　5.PEACH/大塚愛
+2007/8/20　1.SAMURAI/タッキー＆翼　2.シャカビーチ/UVERworld　3.もってけ！セーラーふく/泉こなた　4.星屑サンセット/YUKI　5.Lifetime Respect/RSP
+2007/8/27　1.こころ/小田和正　2.本日、未熟者/TOKIO　3.GREEN DAYS/槇原敬之　4.Lifetime Respect/RSP　5.俄然Yeah！/mihimaru GT
+2007/9/3　1.風の詩を聴かせて/桑田佳祐　2.星のない世界/aiko　3.LIFE/中島美嘉　4.MASSIVE WONDERS/水樹奈々　5.キラーチューン/東京事変
+2007/9/10　1.MY HEART DRAWS A DREAM/ラルク　2.時の描片/EXILE　3.Beautiful World/宇多田ヒカル　4.風の詩を聴かせて/桑田佳祐　5.LIFE/中島美嘉
+2007/9/17　1.Happiness/嵐　2.Beautiful World/宇多田ヒカル　3.時の描片/EXILE　4.風の詩を聴かせて/桑田佳祐　5.CLAP＆LOVE/絢香
+2007/9/24　1.永遠に/KinKi　2.愛のうた/倖田來未　3.Happiness/嵐　4.Beautiful World/宇多田ヒカル　5.CLAP＆LOVE/絢香
+2007/10/1　1.talkin 2 myself/浜崎あゆみ　2.SHINE/東方神起　3.愛のうた/倖田來未　4.永遠に/KinKi　5.Beautiful World/宇多田ヒカル
+2007/10/8　1.LOVE＆TRUTH/YUI　2.Black Cherry/Acid Black Cherry　3.LOVE LETTER/BoA　4.talkin 2 myself/浜崎あゆみ　5.蜜指/シド
+2007/10/15　1.SUPER LOVE SONGS/B'z　2.アイシテルのサイン/ドリカム　3.LOVE＆TRUTH/YUI　4.このは/ナイトメア　5.永遠の詩/中島美嘉
+2007/10/22　1.DAYBREAK'S BELL/ラルク　2.アイシテルのサイン/ドリカム　3.SUPER LOVE SONGS/B'z　4.LOVE＆TRUTH/YUI　5.芸スクール漢組/仙台貨物
+2007/10/29　1.イッツマイソウル/関ジャニ∞　2.花の首飾り/リュシウォン　3.都会っ子純情/℃-ute　4.DAYBREAK'S BELL/ラルク　5.アイシテルのサイン/ドリカム
+2007/11/5　1.花の名/バンプオブチキン　2.メーデー/バンプオブチキン　3.DOZING GREEN/DIR EN GREY　4.最期の川/ケミストリ　5.Yellow/木村カエラ
+2007/11/12　1.旅立ちの唄/ミスチル　2.Ashes.EP/GLAY　3.花の名/バンプオブチキン　4.小さな掌/AquaTimez　5.ホントのじぶん/Buono！
+2007/11/19　1.weeeek/NEWS　2.蒼く優しく/コブクロ　3.LAST ANGEL/倖田來未　4.旅立ちの唄/ミスチル　5.ポケット/大塚愛
+2007/11/26　1.Ultra Music Power/Hey! Say! JUMP　2.Hurry Xmas/ラルク　3.浮世CROSSING/UVERworld　4.Forever Love/東方神起　5.weeeek/NEWS
+2007/12/3　1.Keep the faith/KAT-TUN　2.聖なる夜に/ケツメイシ　3.I Believe/EXILE　4.KISSして/KOH+　5.Ultra Music Power/Hey! Say! JUMP
+2007/12/10　1.青春/TOKIO　2.愛してない/Acid Black Cherry　3.Keep the faith/KAT-TUN　4.RED RIBBON Spiritual Song/チャリティProject　5.聖なる夜に/ケツメイシ
+2007/12/17　1.ダーリン/桑田佳祐　2.BLADE CHORD/アビングドンボーイスクール　3.KISSして/KOH+　4.涙の温度/シド　5.Keep the faith/KAT-TUN
+2007/12/24　1.way of life/V6　2.グロリアスマインド/ZARD　3.Wonderful＆Beautiful/レミオロメン　4.ワンダーライン/YUKI　5.ダーリン/桑田佳祐
+2007/12/31　1.弾丸ファイター/SMAP　2.Climax Jump DEN-LINER　3.Together/東方神起　4.バッカ/吉井和哉　5.way of life/V6
+2008/1/14　1.弾丸ファイター/SMAP　2.吾亦紅/すぎもとまさと　3.千の風になって/秋川雅史　4.Climax Jump DEN-LINER　5.らきすたRe-Mix002
+2008/1/21　1.MIRAGE/AAA　2.吾亦紅/すぎもとまさと　3.千の風になって/秋川雅史　4.Fate/遊吟　5.早春ラプソディ/RAGFAIR
+2008/1/28　1.Purple Line/東方神起　2.冬の幻/AcidBlackCherry　3.Baby cruising Love/Perfume　4.夢の途中/WaT　5.吾亦紅/すぎもとまさと
+2008/2/4　1.オーダーメイド/RADWIMPS　2.出会いのかけら/ケツメイシ　3.そばにいるね/青山テルマ　4.anytime/倖田來未　5.目覚めろ！野生/MATCHY
+2008/2/11　1.そばにいるね/青山テルマ　2.Snow tears/中川翔子　3.出会いのかけら/ケツメイシ　4.オーダーメイド/RADWIMPS　5.吾亦紅/すぎもとまさと
+2008/2/18　1.LIPS/KAT-TUN　2.ストーリー/ゆず　3.はじまりの歌/大橋卓弥　4.そばにいるね/青山テルマ　5.STARCAMP EP/水樹奈々
+2008/2/25　1.あなたがここにいたら/ポルノ　2.玄海船歌/氷川きよし　3.紅蓮/the GazettE　4.そばにいるね/青山テルマ　5.LIPS/KAT-TUN
+2008/3/3　1.Step and Go/嵐　2.そばにいるね/青山テルマ　3.HEART STATION/宇多田ヒカル　4.海雪/ジェロ　5.HOME/清水翔太
+2008/3/10　1.太陽のナミダ/NEWS　2.Pure/EXILE　3.Namidairo/YUI　4.そばにいるね/青山テルマ　5.海雪/ジェロ
+2008/3/17　1.そのまま/SMAP　2.君Station/オレンジレンジ　3.太陽のナミダ/NEWS　4.そばにいるね/青山テルマ　5.海雪/ジェロ
+2008/3/24　1.ワッハッハー/関ジャニ∞　2.60s70s80s/安室奈美恵　3.二人/aiko　4.ずっと一緒さ/山下達郎　5.ジンギスカン/Berryz工房
+2008/3/31　1.60s70s80s/安室奈美恵　2.Lifetime Love/THE ALFEE　3.ずっと一緒さ/山下達郎　4.炎神戦隊ゴーオンジャー/Project.R　5.夢が咲く春/倉木麻衣
+2008/4/7　1.オレじゃなきゃ、キミじゃなきゃ/20th Century　2.60s70s80s/安室奈美恵　3.Break the Chain/Tourbillon　4.そばにいるね/青山テルマ　5.Double-Action Wing form/野上健太郎＆ジーク
+2008/4/14　1.DRINK IT DOWN/ラルク　2.Kurikaesu春/244ENDLI-x　3.ありがとう/大橋卓弥　4.60s70s80s/安室奈美恵　5.輪島朝市/水森かおり
+2008/4/21　1.Mirrorcle World/浜崎あゆみ　2.羞恥心/羞恥心　3.翼を広げて/ZARD　4.60s70s80s/安室奈美恵　5.そばにいるね/青山テルマ
+2008/4/28　1.BURN/B'z　2.羞恥心/羞恥心　3.リゾナントブルー/モーニング娘　4.Double-Action CLIMAX　5.汽車に乗って/YUKI
+2008/5/5　1.Beautiful you/東方神起　2.羞恥心/羞恥心　3.トライアングラー/坂本真綾　4.涙の色/℃-ute　5.愛してる/リュシウォン
+2008/5/12　1.No more/米寿司　2.羞恥心/羞恥心　3.アナタボシ/MilkyWay　4.ギリギリHERO/mihimaruGT　5.蛍/TUBE
+2008/5/19　1.SUMMER TIME/NEWS　2.虹/AquaTimez　3.ダイアモンドクレバス/シェリルノーム　4.羞恥心/羞恥心　5.MOTHER/SEAMO
+2008/5/26　1.DON'T U EVER STOP/KAT-TUN　2.虹/AquaTimez　3.SUMMER TIME/NEWS　4.Kiss！Kiss！Kiss！/Buono　5.NOBODY KNOWS/スガシカオ
+2008/6/2　1.Dreams come true/Hey！Say！JUMP　2.Prisoner Of Love/宇多田ヒカル　3.DON'T U EVER STOP/KAT-TUN　4.ロケットスニーカー/大塚愛　5.虹/AquaTimez
+2008/6/9　1.キセキ/グリーン　2.蝶/V6　3.O2/オレンジレンジ　4.Dreams come true/Hey！Say！JUMP　5.虹/AquaTimez
+2008/6/16　1.キセキ/グリーン　2.恋詩/タッキー＆翼　3.88/LM.C　4.アイシテル/清水翔太　5.Vivid/BoA
+2008/6/23　1.VERB/GLAY　2.MOON/倖田來未　3.激動/UVERworld　4.resonance/TMR　5.キセキ/グリーン
+2008/6/30　1.アイアイ傘/テゴマス　2.キセキ/グリーン　3.曇天/DOES　4.LUCKY DAYS/SS501　5.MOON/倖田來未
+2008/7/7　1.One Love/嵐　2.泣かないで/羞恥心　3.痛い立ち位置/ポルノ　4.Yesterday and Tomorrow/ゆず　5.星間飛行/ランカリー
+2008/7/14　1.SUMMER SONG/YUI　2.LOVE ADDICT/VAMPS　3.One Love/嵐　4.泣かないで/羞恥心　5.キセキ/グリーン
+2008/7/21　1.love the world/Perfume　2.爪爪爪/マキシマムザホルモン　3.ブルーバード/いきものがかり　4.行け行けモンキーダンス/Berryz工房　5.One Love/嵐
+2008/7/28　1.どうして君を好きになってしまったんだろう？/東方神起　2.Make my day/新垣結衣　3.DANCE BABY DANCE/福耳　4.君を守りたい/John-Hoon　5.爪爪爪/マキシマムザホルモン
+2008/8/4　1.Your Seed/Hey！Say！JUMP　2.KissHug/aiko　3.崖の上のポニョ/藤岡藤巻と大橋のぞみ　4.告白/ファンモン　5.Make my day/新垣結衣
+2008/8/11　1.GIFT/ミスチル　2.陽は、また昇る/アラジン　3.崖の上のポニョ/藤岡藤巻と大橋のぞみ　4.月姫/高見沢俊彦　5.江戸の手毬唄㈼/℃-ute
+2008/8/18　1.I AM YOUR SINGER/サザン　2.GIFT/ミスチル　3.崖の上のポニョ/藤岡藤巻と大橋のぞみ　4.陽は、また昇る/アラジン　5.One Love/嵐
+2008/8/25　1.この瞬間きっと夢じゃない/SMAP　2.I AM YOUR SINGER/サザン　3.崖の上のポニョ/藤岡藤巻と大橋のぞみ　4.WORLD END/FLOW　5.陽は、また昇る/アラジン
+2008/9/1　1.truth/嵐　2.ギフト/ポルノ　3.ライオン/中島愛　4.I AM YOUR SINGER/サザン　5.崖の上のポニョ/藤岡藤巻と大橋のぞみ
+2008/9/8　1.Secret Code/KinKi　2.NEXUS4/ラルク　3.truth/嵐　4.20+∞Century Boyss/AcidBlackCherry　5.悲愴感/悲愴感
+2008/9/15　1.HANABI/ミスチル　2.雨傘/TOKIO　3.偶然の確率/GIRL NEXT DOOR　4.truth/嵐　5.崖の上のポニョ/藤岡藤巻と大橋のぞみ
+2008/9/22　1.HANABI/ミスチル　2.紅と黒のMATADORA/GLAY　3.恋いしくて/UVERworld　4.クラゲ、流れ星/大塚愛　5.続く世界/中川翔子
+2008/9/29　1.LIGHT IN YOUR HEART/V6　2.HANABI/ミスチル　3.手紙/アンジェラアキ　4.Lost in Blue/ナイトメア　5.崖の上のポニョ/藤岡藤巻と大橋のぞみ
+2008/10/6　1.The Birthday/EXILE　2.あなたと/絢香×コブクロ　3.ペッパー警部/モーニング娘　4.HANABI/ミスチル　5.手紙/アンジェラアキ
+2008/10/13　1.Happy Birthday/NEWS　2.Trickster/水樹奈々　3.The Birthday/EXILE　4.哀愁の湖/氷川きよし　5.最愛/KOH+
+2008/10/20　1.TABOO/倖田來未　2.Love,too Death,too/ポルノ　3.Drive away/GIRL NEXT DOOR　4.The Birthday/EXILE　5.最愛/KOH+
+2008/10/27　1.呪文/東方神起　2.いつか/イビョンホン　3.赤い糸/新垣結衣　4.君と僕/リュシウォン　5.プラネタリウム/いきものがかり
+2008/11/3　1.真夜中のシャドーボーイ/Hey！Say！JUMP　2.想/福山雅治　3.大声ダイヤモンド/AKB48　4.幸せになろう/mihimaruGT　5.綺麗アラモード/中川翔子
+2008/11/10　1.無責任ヒーロー/関ジャニ∞　2.時の足音/コブクロ　3.ニホンノミカタ/矢島美容室　4.モノクロのキス/シド　5.36℃/WaT
+2008/11/17　1.Beautiful days/嵐　2.シシカバブー/ゆず　3.時の足音/コブクロ　4.今日もどこかで/小田和正　5.若葉/スピッツ
+2008/11/24　1.連れてって連れてって/ドリカム　2.LEECH/the GazettE　3.あしたの空/SPEED　4.Beautiful days/嵐　5.おしゃれ番長/オレンジレンジ
+2008/12/1　1.儚くも永久のカナシ/UVERworld　2.Dream Fighter/Perfume　3.情熱の代償/GIRL NEXT DOOR　4.Beautiful days/嵐　5.職業:アイドル/アイドリング
+2008/12/8　1.Last Christmas/EXILE　2.Everyday/w-inds　3.ジグソー/AcidBlackCherry　4.儚くも永久のカナシ/UVERworld　5.FOREVER LOVE/℃-ute
+2008/12/15　1.White X'mas/KAT-TUN　2.扉/グリーン　3.Prototype/石川智晶　4.気まぐれロマンティック/いきものがかり　5.NAKED LOVE/ナイトメア
+2008/12/22　1.弱虫サンタ/羞恥心　2.今宵、月が見えずとも/ポルノ　3.White X'mas/KAT-TUN　4.愛のままで/秋元順子　5.Heart of Winter/山崎まさよし
+2008/12/29　1.Days/浜崎あゆみ　2.弱虫サンタ/羞恥心　3.今宵、月が見えずとも/ポルノ　4.愛のままで/秋元順子　5.HEAVEN/BUCK-TICK
+2009/1/12　1.stay with me/倖田來未　2.Days/浜崎あゆみ　3.愛のままで/秋元順子　4.弱虫サンタ/羞恥心　5.今宵、月が見えずとも/ポルノ
+2009/1/19　1.愛・革命/滝沢秀明　2.愛のままで/秋元順子　3.夢の蕾/レミオロメン　4.幸せの形/THEポッシボー　5.LOVE MATHEMATICS/BaseBallBear
+2009/1/26　1.愛のままで/秋元順子　2.Velonica/AquaTimez　3.2℃目の彼女/シド　4.旅ダチノウタ/AAA　5.バイバイ/里田まい
+2009/2/2　1.Bolero/東方神起　2.深愛/水樹奈々　3.愛のままで/秋元順子　4.conomachi/Buono　5.朝が来る前に/秦基博
+2009/2/9　1.約束/KinKi　2.歩み/グリーン　3.愛のままで/秋元順子　4.ビルマニア/吉井和哉　5.どこ/木村カエラ
+2009/2/16　1.浪曲一代/氷川きよし　2.鏡花水月/The SHIGOTONIN　3.WAO！/ユニコーン　4.愛のままで/秋元順子　5.約束/KinKi
+2009/2/23　1.ONE DROP/KAT-TUN　2.泪のムコウ/ステレオポニー　3.愛のままで/秋元順子　4.浪曲一代/氷川きよし　5.123for5/ゴスペラーズ
+2009/3/2　1.milk/aiko　2.眠り姫/AcidBlackCherry　3.泣いちゃうかも/モーニング娘　4.愛のままで/秋元順子　5.ONE DROP/KAT-TUN
+2009/3/9　1.Rule/浜崎あゆみ　2.星に願いを/flumpool　3.愛のままで/秋元順子　4.STRENGTH/アビングドンボーイスクール　5.さよならは言わない/小田和正
+2009/3/16　1.Believe/嵐　2.SAY YOUR DREAM/GLAY　3.10年桜/AKB48　4.卒業/長渕剛　5.trust you/伊藤由奈
+2009/3/23　1.RESCUE/KAT-TUN　2.ひまわり/遊助　3.Survivor/東方神起　4.刹那/グリーン　5.Believe/嵐
+2009/3/30　1.WILD/安室奈美恵　2.ひまわり/遊助　3.RESCUE/KAT-TUN　4.Believe/嵐　5.乙女の祈り/真野恵里菜
+2009/4/6　1.ワンルームディスコ/Perfume　2.Journey through the Decade/Gackt　3.DISTRESS AND COMA/the GazettE　4.ひまわり/遊助　5.SAKURA/矢島美容室
+2009/4/13　1.It's all love！/倖田來未×misono　2.チューしようぜ！/AKBアイドリング　3.PUZZLE/倉木麻衣　4.安芸の宮島/水森かおり　5.ひまわり/遊助
+2009/4/20　1.空/剛紫 　2.Everlasting luv/BREAKERZ　3.久遠の河/alan　4.It's all love！/倖田來未×misono　5.愛のままで/秋元順子
+2009/4/27　1.THE MONSTER/EXILE　2.虹/コブクロ　3.Seeds of dream/GIRL NEXT DOOR　4.Bye Bye Bye！/℃-ute　5.安芸の宮島/水森かおり
+2009/5/4　1.Share The World/東方神起　2.Don't say lazy/桜高軽音部　3.逢いたい/ゆず　4.Cagayake！GIRLS/桜高軽音部　5.THE MONSTER/EXILE
+2009/5/11　1.恋のABO/NEWS　2.嘘/シド　3.明日がくるなら/JUJU　4.涙の種、笑顔の花/中川翔子　5.Don't say lazy/桜高軽音部
+2009/5/18　1.シャララ/滝沢秀明　2.明日がくるなら/JUJU　3.恋のABO/NEWS　4.BANZAI/木村カエラ　5.Don't say lazy/桜高軽音部
+2009/5/25　1.しょうがない夢追い人/モーニング娘　2.Rain Is Fallin/w-inds　3.two友/ゆずグレン　4.EVANESCENT/VAMPS　5.Love Forever/加藤ミリヤ×清水翔太
+2009/6/1　1.化身/福山雅治　2.I am xxx/GLAY　3.ふわふわ時間/桜高軽音部　4.JAP/アビングドンボーイスクール　5.虹のレシピ/スキマスイッチ
+2009/6/8　1.明日の記憶/嵐　2.遥か/グリーン　3.ありあまる富/椎名林檎　4.I am xxx/GLAY　5.素直に言えなくて/ZARD
+2009/6/15　1.again/YUI　2.明日の記憶/嵐　3.遥か/グリーン　4.青春バスガイド/Berryz工房　5.Black Market Blues/9mm Parabellum Bullet
+2009/6/22　1.Infinity/GIRL NEXT DOOR　2.Beautiful/倉木麻衣　3.again/YUI　4.遥か/グリーン　5.明日の記憶/嵐
+2009/6/29　1.スピリット/V6　2.けいおん/秋山澪　3.けいおん/平沢唯　4.I Believe/南明奈　5.Oh！RADIO/忌野清志郎
+2009/7/6　1.たんぽぽ/遊助　2.涙サプライズ！/AKB48　3.MY HEAVEN/BIGBANG　4.キミだけ/小池徹平　5.LOST ANGEL/GACKT
+2009/7/13　1.Everything/嵐　2.Stand by U/東方神起　3.MW/flumpool　4.たんぽぽ/遊助　5.暑中お見舞い申し上げます/℃-ute
+2009/7/20　1.七夕祭り/テゴマス　2.3SPLASH/倖田來未　3.Everything/嵐　4.みんな空の下/絢香　5.ガラガラ GO！/BIG BANG
+2009/7/27　1.悪魔な恋/NYC　2.泣いてもいいですか/ヘキサゴンオールスターズ　3.STAY/コブクロ　4.Starting Over/レミオロメン　5.ホタルノヒカリ/いきものがかり
+2009/8/3　1.THE HURRICANE/EXILE　2.悪魔な恋/NYC　3.Super Driver/平野綾　4.泣いてもいいですか/ヘキサゴンオールスターズ　5.無条件幸福/アイドリング
+2009/8/10　1.妖/堂本光一　2.いちご/ゆず　3.Break Down/AAA　4.優しい嘘/AcidBlackCherry　5.THE HURRICANE/EXILE
+2009/8/17　1.イチブトゼンブ/B'z　2.GO-ON/UVERworld　3.こちら葛飾区亀有公園前派出所/両さん　4.Be your wings/GIRL NEXT DOOR　5.強き者よ/SKE48
+2009/8/24　1.Sunrise/浜崎あゆみ　2.なんちゃって恋愛/モーニング娘　3.イチブトゼンブ/B'z　4.The Next Decade/GACKT　5.君の知らない物語/supercell
+2009/8/31　1.ときめきのルンバ/氷川きよし　2.イチブトゼンブ/B'z　3.太陽と砂漠のバラ/TOKIO　4.Sunrise/浜崎あゆみ　5.夢をアリガトウ/原由子
+2009/9/7　1.そっときゅっと/SMAP　2.言い訳Maybe/AKB48　3.けいおん/中野梓　4.けいおん/中野梓　5.イチブトゼンブ/B'z
+2009/9/14　1.GUILTY/V6　2.虹/ゆず　3.イチブトゼンブ/B'z　4.そっときゅっと/SMAP　5.ときめきのルンバ/氷川きよし
+2009/9/21　1.RAIN/堂本剛　2.この胸を、愛を射よ/ポルノ　3.その先へ/ドリカム　4.イチブトゼンブ/B'z　5.ときめきのルンバ/氷川きよし
+2009/9/28　1.Alive/倖田來未　2.EVERYDAY絶好調/℃-ute　3.ラバソー/柴咲コウ　4.ときめきのルンバ/氷川きよし　5.イチブトゼンブ/B'z
+2009/10/5　1.ヒカリひとつ/滝沢秀明　2.YELL/いきものがかり　3.Rem/ナイトメア　4.かみさまでもえらべない/Early Morning　5.イチブトゼンブ/B'z
+2009/10/12　1.COLORS/東方神起　2.SWEET DREAMS/VAMPS　3.ヘタリアキャラクターCD　4.CANDY GIRL/中島美嘉　5.Cold Edge/9mm Parabellum Bullet
+2009/10/19　1.It's all too much/YUI　2.BEFORE I DECAY/the GazettE　3.半世紀少年/ユニコーン　4.夜明けを求めて/THE ALFEE　5.女夢/リュシウォン
+2009/10/26　1.MY LONELY TOWN/B'z　2.ゴールデンタイムラバー/スキマスイッチ　3.男道/新選組リアン　4.It's all too much/YUI　5.ラヴノーツ/ゴスペラーズ
+2009/11/2　1.RIVER/AKB48　2.Hide-away/AAA　3.僕は君に恋をする/平井堅　4.MY LONELY TOWN/B'z　5.pink monsoon/シェリルノーム
+2009/11/9　1.スワンソング/KinKi　2.哀しみはきっと/UVERworld　3.夢幻/水樹奈々　4.気まぐれプリンセス/モーニング娘　5.RIVER/AKB48
+2009/11/16　1.急上Show！/関ジャニ∞　2.いちょう/遊助　3.only my railgun/fripSide　4.声をきかせて/BIGBANG　5.LOVE FIGHTER/BREAKERZ
+2009/11/23　1.マイガール/嵐　2.THE GENERATION/EXILE　3.one way/シド　4.SAHARA/スラッシュ　5.私の未来のだんな様/Berryz工房
+2009/11/30　1.Loveless/山下智久　2.THE GENERATION/EXILE　3.マイガール/嵐　4.ヒーロー/ファンモン　5.Insomnia/the HIATUS
+2009/12/7　1.BANDAGE/LANDS　2.R.I.P/バンプオブチキン　3.アニマロッサ/ポルノ　4.Loveless/山下智久　5.THE GENERATION/EXILE
+2009/12/14　1.能動的三分間/東京事変　2.激しさとこの胸の中で絡み付いた灼熱の闇/DIR EN GREY　3.R.I.P/バンプオブチキン　4.新世紀のラブソング/アジカン　5.スノープリンス/スノープリンス合唱団
+2009/12/21　1.君にサヨナラを/桑田佳祐　2.New World/w-inds　3.まもりたい/BoA　4.雪月花/GACKT　5.Hurry Xmas/ラルク
+2009/12/28　1.はつ恋/福山雅治　2.この愛を捧げて/THE ALFEE　3.From Dusk Till Dawn/アビングドンボーイスクール　4.BravoBrav0o/Buono　5.CMランカ/中島愛

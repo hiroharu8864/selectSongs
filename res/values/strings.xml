@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SelectSongs</string>
+    <string name="action_settings">Settings</string>
+    <string name="introduction1">以下のボタンをクリックすると、ランダムに1990年代、2000年代それぞれのシングルTOP5が表示されます。</string>
+    <string name="introduction2">カラオケの曲選択などにてご利用ください。</string>
+    <string name="button1">90年代Songs</string>
+    <string name="button2">00年代Songs</string>
+    
+    <string name="desc">ボタンをクリックすると、ランダムに1990年代、2000年代それぞれのシングルTOP5が表示されます。</string>
+
+</resources>
